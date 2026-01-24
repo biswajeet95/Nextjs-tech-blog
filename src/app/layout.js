@@ -23,7 +23,8 @@ export const metadata = {
 
   // ✅ Google Site Verification
   verification: {
-    google: "S9uzz6418zWa0JmN02ylEgcOYGAQ1booeRj1tRFU6qU",
+    // google: "S9uzz6418zWa0JmN02ylEgcOYGAQ1booeRj1tRFU6qU",
+    "google-site-verification": "S9uzz6418zWa0JmN02ylEgcOYGAQ1booeRj1tRFU6qU"
   },
 };
 
