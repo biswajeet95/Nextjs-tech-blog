@@ -10,8 +10,8 @@ const inter = Inter({
 });
 
 export const metadata = {
-  metadataBase: new URL("http://localhost:3000"),
-  // metadataBase: new URL("https://iqraconsultancy.com"), // 👈 production me use karna
+  // metadataBase: new URL("http://localhost:3000"),
+  metadataBase: new URL("https://iqraconsultancy.in"), // 👈 production me use karna
 
   title: {
     default: "IQra Consultancy | Education, Career & Technology",
