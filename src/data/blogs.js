@@ -1,4 +1,137 @@
 export const blogs = [
+
+
+  {
+  slug: "best-free-ai-tools-for-students-freelancers",
+  title: "Best Free AI Tools for Students & Freelancers",
+  description:
+    "Students aur freelancers ke liye best free AI tools jo study, content, design aur productivity me real help karte hain.",
+  image: "/images/ai-tools-students-freelancers.jpg",
+  content: `<section>
+  <h1>🤖 Best Free AI Tools for Students & Freelancers</h1>
+
+  <p>
+    Aaj ke time me student ho ya freelancer, sabke paas ek hi challenge hota hai — 
+    time kam aur kaam zyada. College assignments, projects, presentations, aur 
+    freelancers ke liye clients aur deadlines. Is phase se main khud guzra hoon, 
+    jahan lagta tha ki sab kuch manually karna padega.
+  </p>
+
+  <p>
+    Dheere-dheere mujhe free AI tools ke baare me pata chala jo honestly life ko 
+    kaafi easy bana dete hain. Ye blog unhi tools par based hai jo real life me 
+    kaam aate hain, bina paise kharch kiye.
+  </p>
+
+  <h2>🧠 AI Tools Kya Hote Hain? Simple Language Me</h2>
+  <p>
+    AI tools aise software hote hain jo hamare kaam ko fast, easy aur smart bana dete hain.
+    Writing, planning, designing aur learning sab kuch AI ke through better ho sakta hai.
+  </p>
+
+  <ul>
+    <li>Time save hota hai</li>
+    <li>Ideas quickly mil jaate hain</li>
+    <li>Productivity improve hoti hai</li>
+  </ul>
+
+  <h2>💬 ChatGPT – Students aur Freelancers ka Best Helper</h2>
+  <p>
+    ChatGPT ek aisa AI tool hai jo concepts ko simple Hinglish me samjha deta hai.
+    Students ise assignments aur exam preparation ke liye use kar sakte hain,
+    aur freelancers content ideas aur client communication ke liye.
+  </p>
+
+  <ul>
+    <li>Difficult topics ko easy language me samjhana</li>
+    <li>Assignment structure aur ideas</li>
+    <li>Blog aur content ka rough draft</li>
+    <li>Basic coding logic samajhna</li>
+  </ul>
+
+  <h2>✍️ Grammarly – English Weak Hai? No Worries</h2>
+  <p>
+    India me bahut log ideas strong hone ke baad bhi English ki wajah se confidence lose kar dete hain.
+    Grammarly free version me bhi grammar aur readability improve kar deta hai.
+  </p>
+
+  <ul>
+    <li>Assignments aur projects</li>
+    <li>Freelancing proposals</li>
+    <li>Emails aur cover letters</li>
+  </ul>
+
+  <h2>🎨 Canva – Design Experience Zero? Fir Bhi Kaam Ho Jayega</h2>
+  <p>
+    Canva un logon ke liye perfect hai jinko design nahi aata.
+    Free version me bhi kaafi templates mil jaate hain jo kaam ke hote hain.
+  </p>
+
+  <ul>
+    <li>Presentations aur resumes</li>
+    <li>Instagram aur social media posts</li>
+    <li>Blog thumbnails</li>
+  </ul>
+
+  <h2>🔊 Text-to-Speech AI – Voice Content Ke Liye</h2>
+  <p>
+    Agar aap videos, reels ya presentations ke liye voice chahte ho,
+    to free text-to-speech AI tools kaafi helpful hote hain.
+  </p>
+
+  <ul>
+    <li>YouTube shorts aur reels</li>
+    <li>Educational videos</li>
+    <li>Presentation narration</li>
+  </ul>
+
+  <h2>🧾 Notion AI – Planning aur Productivity</h2>
+  <p>
+    Notion sirf notes app nahi hai. Students aur freelancers dono ke liye
+    ek proper planning system ban sakta hai.
+  </p>
+
+  <ul>
+    <li>Study planning</li>
+    <li>Client task management</li>
+    <li>Content calendar</li>
+  </ul>
+
+  <h2>🖼️ Free AI Image Tools – Blogging aur Design Ke Liye</h2>
+  <p>
+    Blogging ya social media ke liye images chahiye hoti hain.
+    Free AI image generators basic needs ke liye kaafi useful hote hain.
+  </p>
+
+  <h2>📚 QuillBot – Paraphrasing aur Summarizing</h2>
+  <p>
+    Kabhi-kabhi content samajh aata hai par likhna tough hota hai.
+    QuillBot sentences ko simple aur readable bana deta hai.
+  </p>
+
+  <h2>⚠️ AI Use Karte Time Ye Galtiyaan Mat Karna</h2>
+  <ul>
+    <li>AI content ko copy-paste mat karo</li>
+    <li>Over-dependence mat banao</li>
+    <li>Original thinking ko ignore mat karo</li>
+  </ul>
+
+  <h2>✨ From My Experience</h2>
+  <p>
+    AI koi shortcut nahi hai success ka. Ye sirf ek helper hai.
+    Jo log seekhne ke liye AI ka use karte hain, wahi aage badhte hain.
+    AI ko samajh ke, responsibly use karna hi sabse best approach hai.
+  </p>
+
+  <p>
+    Agar aap student ho ya freelancing start kar rahe ho,
+    to free AI tools aapke liye ek silent support system jaise kaam kar sakte hain.
+      Ane baale time me AI aur bhi advances hoga,to aapko uske saath chalna padega.
+    Dheere-dheere seekho, pressure mat lo, aur smart kaam karo. 
+  
+  </p>
+</section>`
+},
   {
     slug: "the-future-of-ai",
     title: "The Future of AI",
