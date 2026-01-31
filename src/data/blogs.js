@@ -1,13 +1,125 @@
 export const blogs = [
+  {
+    slug: "how-google-gemini-ai-revolutionizing-jee-prep-india",
+    title: "How Google’s Gemini AI is Revolutionizing JEE Prep in India",
+    description:
+      "Jaaniye kaise Google ka Gemini AI India me JEE preparation ko smarter, personalized aur less stressful bana raha hai students ke liye.",
+    image: "/images/google-gemini-jee-prep-india.jpg",
+    content: `<section>
+  <h1>How Google’s Gemini AI is Revolutionizing JEE Prep in India</h1>
+
+  <p>
+    Agar aap India me JEE ki taiyari kar rahe ho, to aap jaante ho yeh sirf ek exam nahi,
+    balki ek emotional journey hoti hai. Subah coaching, shaam self-study, mock tests,
+    aur har din ek naya pressure. Maine apne aas-paas itne students dekhe hain jo
+    potential hone ke bawajood pressure me khud par doubt karne lagte hain.
+  </p>
+
+  <p>
+    Isi beech jab Google ne Gemini AI ko education aur JEE preparation ke liye introduce
+    kiya, to laga shayad yeh sirf ek tech update ho. Lekin jaise-jaise iske baare me
+    samajh aaya, tab realize hua ki yeh Indian students ke liye ek real change la
+    sakta hai.
+  </p>
+
+  <h2>JEE Preparation: Sirf Padhai Nahi, Mental Pressure Bhi</h2>
+  <p>
+    JEE ka pressure sirf syllabus ka nahi hota. Comparison, expectations aur limited
+    resources bhi ek bada role play karte hain. Har student ek jaisa nahi hota,
+    lekin traditional coaching systems sabko same speed aur same method se padhate hain.
+  </p>
+
+  <p>
+    Yahin par Gemini AI ka approach thoda different hai.
+  </p>
+
+  <h2>Google Gemini AI Kya Hai? Simple Words Me</h2>
+  <p>
+    Gemini AI Google ka advanced artificial intelligence system hai jo students ke
+    learning pattern ko samajhta hai. Yeh sirf answers nahi deta, balki yeh dekhta
+    hai ki student kaha struggle kar raha hai aur kaise improve kar sakta hai.
+  </p>
+
+  <p>
+    Iska matlab yeh nahi ki teacher ki value kam ho jaayegi, balki yeh ek smart
+    study companion ki tarah kaam karta hai jo hamesha available hota hai.
+  </p>
+
+  <h2>Gemini AI JEE Preparation Me Kya Alag Kar Raha Hai?</h2>
+
+  <h3>Personalized Learning for Every Student</h3>
+  <p>
+    Har student ki strengths aur weaknesses alag hoti hain. Gemini AI student ke
+    performance ke basis par personalized study suggestions deta hai.
+    Agar aap kisi topic me baar-baar galti kar rahe ho, to yeh us topic ko
+    alag tareeke se samjhata hai.
+  </p>
+
+  <h3>Concept Clarity Par Focus</h3>
+  <p>
+    JEE me sirf formula yaad karna kaafi nahi hota. Gemini AI concepts ke
+    “why” par focus karta hai. Step-by-step explanations se students ko
+    logic samajhne me madad milti hai.
+  </p>
+
+  <h3>Smart Practice Tests</h3>
+  <p>
+    Normal mock tests sirf rank dikhate hain, lekin Gemini AI ke adaptive tests
+    student ke weak areas ko identify karte hain. Isse student ko yeh samajh
+    aata hai ki problem speed me hai ya understanding me.
+  </p>
+
+  <h2>Tier-2 aur Tier-3 Cities Ke Students Ke Liye Opportunity</h2>
+  <p>
+    India me best coaching institutes limited cities tak hi available hote hain.
+    Gemini AI sirf internet aur ek basic device ke saath same level ka guidance
+    provide karta hai. Isse chhote shehron ke students ko bhi equal opportunity milti hai.
+  </p>
+
+  <h2>Teachers aur Parents Ke Liye Bhi Helpful</h2>
+  <p>
+    Teachers Gemini AI ke through student progress ko better samajh sakte hain,
+    aur parents sirf marks nahi balki learning growth bhi dekh paate hain.
+    Isse unnecessary pressure bhi kam hota hai.
+  </p>
+
+  <h2>Kya Gemini AI Sab Problems Solve Kar Dega?</h2>
+  <p>
+    Sach yeh hai ki JEE hamesha challenging rahega. Discipline, consistency aur
+    hard work ki jagah koi AI nahi le sakta. Lekin Gemini AI students ko akela
+    feel nahi hone deta aur unhe right direction deta hai.
+  </p>
+
+  <h2>Technology Jab Human Touch Ke Saath Aati Hai</h2>
+  <p>
+    Education me technology tabhi kaam karti hai jab woh students ke emotions
+    aur struggles ko samjhe. Gemini AI ka impact sirf exam tak limited nahi,
+    balki yeh confidence aur self-belief build karne me bhi madad karta hai.
+  </p>
+
+  <h2>Ek Personal Soch</h2>
+  <p>
+    Agar Gemini AI mere JEE ke time pe hota, to shayad main apni weaknesses ko
+    aur better handle kar pata. Aaj ke students ke paas better tools hain,
+    bas unhe smart tareeke se use karna zaroori hai.
+  </p>
+
+  <p>
+    JEE ek exam hai, lekin life usse kaafi badi hai. Agar Gemini AI jaise tools
+    learning ko thoda easy aur pressure ko thoda kam bana dete hain,
+    to yeh education ke future ke liye ek positive step hai.
+  </p>
+</section>`
+  },
 
 
   {
-  slug: "best-free-ai-tools-for-students-freelancers",
-  title: "Best Free AI Tools for Students & Freelancers",
-  description:
-    "Students aur freelancers ke liye best free AI tools jo study, content, design aur productivity me real help karte hain.",
-  image: "/images/ai-tools-students-freelancers.jpg",
-  content: `<section>
+    slug: "best-free-ai-tools-for-students-freelancers",
+    title: "Best Free AI Tools for Students & Freelancers",
+    description:
+      "Students aur freelancers ke liye best free AI tools jo study, content, design aur productivity me real help karte hain.",
+    image: "/images/ai-tools-students-freelancers.jpg",
+    content: `<section>
   <h1>🤖 Best Free AI Tools for Students & Freelancers</h1>
 
   <p>
@@ -131,7 +243,7 @@ export const blogs = [
   
   </p>
 </section>`
-},
+  },
   {
     slug: "the-future-of-ai",
     title: "The Future of AI",
@@ -478,12 +590,12 @@ export const blogs = [
 
 
   {
-  slug: "what-is-react-beginner-friendly-guide",
-  title: "What is React? Beginner Friendly Guide",
-  description:
-    "React kya hai, kaise kaam karta hai aur beginners ke liye React kyun important hai – simple Hinglish guide.",
-  image: "/images/react.jpg",
-  content: `<section>
+    slug: "what-is-react-beginner-friendly-guide",
+    title: "What is React? Beginner Friendly Guide",
+    description:
+      "React kya hai, kaise kaam karta hai aur beginners ke liye React kyun important hai – simple Hinglish guide.",
+    image: "/images/react.jpg",
+    content: `<section>
   <h1>⚛️ What is React? Beginner Friendly Guide (Simple Hinglish Mein)</h1>
 
   <p>
@@ -650,13 +762,13 @@ export const blogs = [
     toh React aapke career ke liye ek strong weapon ban sakti hai.
   </p>
 </section>`
-}, {
-  slug: "what-is-nextjs-beginner-friendly-guide",
-  title: "What is Next.js? Beginner Friendly Guide",
-  description:
-    "Next.js kya hai, React se kaise different hai aur modern websites ke liye Next.js kyun best choice hai – simple Hinglish guide.",
-  image: "/images/nextjs.jpg",
-  content: `<section>
+  }, {
+    slug: "what-is-nextjs-beginner-friendly-guide",
+    title: "What is Next.js? Beginner Friendly Guide",
+    description:
+      "Next.js kya hai, React se kaise different hai aur modern websites ke liye Next.js kyun best choice hai – simple Hinglish guide.",
+    image: "/images/nextjs.jpg",
+    content: `<section>
   <h1>🚀 What is Next.js? Beginner Friendly Guide (Simple Hinglish Mein)</h1>
 
   <p>
@@ -835,18 +947,18 @@ export const blogs = [
     toh Next.js aapke liye ek strong step ho sakta hai.
   </p>
 </section>`
-},
+  },
 
 
 
 
   {
-  slug: "what-is-javascript-explained-simply",
-  title: "What is JavaScript? Explained Simply",
-  description:
-    "JavaScript kya hai, kyun itna important hai aur kaise websites ko interactive banata hai – beginner friendly Hinglish explanation.",
-  image: "/images/javascript.jpg",
-  content: `<section>
+    slug: "what-is-javascript-explained-simply",
+    title: "What is JavaScript? Explained Simply",
+    description:
+      "JavaScript kya hai, kyun itna important hai aur kaise websites ko interactive banata hai – beginner friendly Hinglish explanation.",
+    image: "/images/javascript.jpg",
+    content: `<section>
   <h1>✨ What is JavaScript? Explained Simply (Beginner Friendly)</h1>
 
   <p>
@@ -999,7 +1111,7 @@ export const blogs = [
     toh JavaScript aapki journey ka sabse important step hai.
   </p>
 </section>`
-}
+  }
 
 
 ];
