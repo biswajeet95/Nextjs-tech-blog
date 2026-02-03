@@ -1,306 +1,306 @@
 export const blogs = [
-  {
-    slug: "25-best-free-ai-tools-2026-students-freelancers-creators",
-    title: "25 Best Free AI Tools in 2026 for Students, Freelancers & Creators",
-    description:
-      "2026 me students, freelancers aur content creators ke liye best free AI tools jo padhai, kaam aur creativity ko genuinely easy bana dete hain – bina credit card ke.",
-    image: "/images/best-free-ai-tools-2026.jpg",
-    content: `<section>
-  <h1>25 Best Free AI Tools in 2026 for Students, Freelancers & Creators</h1>
+//   {
+//     slug: "25-best-free-ai-tools-2026-students-freelancers-creators",
+//     title: "25 Best Free AI Tools in 2026 for Students, Freelancers & Creators",
+//     description:
+//       "2026 me students, freelancers aur content creators ke liye best free AI tools jo padhai, kaam aur creativity ko genuinely easy bana dete hain – bina credit card ke.",
+//     image: "/images/best-free-ai-tools-2026.jpg",
+//     content: `<section>
+//   <h1>25 Best Free AI Tools in 2026 for Students, Freelancers & Creators</h1>
 
-  <p>
-    Sach kahun toh jab maine pehli baar AI tools ke baare me suna tha, mujhe laga
-    yeh sirf tech experts ya big companies ke kaam aate honge. Lekin 2026 tak aate-aate
-    AI ne normal students, freelancers aur content creators ki life kaafi simplify kar di hai.
-  </p>
+//   <p>
+//     Sach kahun toh jab maine pehli baar AI tools ke baare me suna tha, mujhe laga
+//     yeh sirf tech experts ya big companies ke kaam aate honge. Lekin 2026 tak aate-aate
+//     AI ne normal students, freelancers aur content creators ki life kaafi simplify kar di hai.
+//   </p>
 
-  <p>
-    Chahe assignments ka pressure ho, client ka tight deadline ho, ya daily content
-    create karne ka stress — sahi AI tools aapka kaam aadha kar dete hain.
-    Is blog me main woh <strong>25 free AI tools</strong> share kar raha hoon jo maine
-    khud use kiye hain ya closely test hote dekhe hain.
-  </p>
+//   <p>
+//     Chahe assignments ka pressure ho, client ka tight deadline ho, ya daily content
+//     create karne ka stress — sahi AI tools aapka kaam aadha kar dete hain.
+//     Is blog me main woh <strong>25 free AI tools</strong> share kar raha hoon jo maine
+//     khud use kiye hain ya closely test hote dekhe hain.
+//   </p>
 
-  <h2>AI Tools for Students – Padhai Ko Thoda Easy Banane Ke Liye</h2>
+//   <h2>AI Tools for Students – Padhai Ko Thoda Easy Banane Ke Liye</h2>
 
-  <h3>1. ChatGPT (Free Version)</h3>
-  <p>
-    Concepts samajhne, notes banane aur doubts clear karne ke liye kaafi helpful.
-    Yeh sirf answer nahi deta, balki samjhaata bhi hai.
-  </p>
+//   <h3>1. ChatGPT (Free Version)</h3>
+//   <p>
+//     Concepts samajhne, notes banane aur doubts clear karne ke liye kaafi helpful.
+//     Yeh sirf answer nahi deta, balki samjhaata bhi hai.
+//   </p>
 
-  <h3>2. Perplexity AI</h3>
-  <p>
-    Agar Google search confusing lagta hai, toh Perplexity direct aur clean answers
-    deta hai with sources. Research ke liye kaafi useful.
-  </p>
+//   <h3>2. Perplexity AI</h3>
+//   <p>
+//     Agar Google search confusing lagta hai, toh Perplexity direct aur clean answers
+//     deta hai with sources. Research ke liye kaafi useful.
+//   </p>
 
-  <h3>3. Notion AI (Limited Free)</h3>
-  <p>
-    Study planning, notes aur task management ek hi jagah.
-    Students ke liye organized rehna easy ho jaata hai.
-  </p>
+//   <h3>3. Notion AI (Limited Free)</h3>
+//   <p>
+//     Study planning, notes aur task management ek hi jagah.
+//     Students ke liye organized rehna easy ho jaata hai.
+//   </p>
 
-  <h3>4. Grammarly Free</h3>
-  <p>
-    English writing improve karne ke liye best free tool.
-    Assignments aur emails ka confidence badh jaata hai.
-  </p>
+//   <h3>4. Grammarly Free</h3>
+//   <p>
+//     English writing improve karne ke liye best free tool.
+//     Assignments aur emails ka confidence badh jaata hai.
+//   </p>
 
-  <h3>5. Socratic by Google</h3>
-  <p>
-    Maths aur science ke questions ko visual explanations ke saath samjhata hai,
-    jo school aur JEE level students ke liye helpful hai.
-  </p>
+//   <h3>5. Socratic by Google</h3>
+//   <p>
+//     Maths aur science ke questions ko visual explanations ke saath samjhata hai,
+//     jo school aur JEE level students ke liye helpful hai.
+//   </p>
 
-  <h2>AI Tools for Freelancers – Time Bachane Ke Liye</h2>
+//   <h2>AI Tools for Freelancers – Time Bachane Ke Liye</h2>
 
-  <h3>6. Canva AI</h3>
-  <p>
-    Freelancers ke liye design ek headache hota hai.
-    Canva AI thumbnails, posts aur presentations banana easy kar deta hai.
-  </p>
+//   <h3>6. Canva AI</h3>
+//   <p>
+//     Freelancers ke liye design ek headache hota hai.
+//     Canva AI thumbnails, posts aur presentations banana easy kar deta hai.
+//   </p>
 
-  <h3>7. Copy.ai (Free Plan)</h3>
-  <p>
-    Client ke liye captions, short content aur email drafts ke liye kaafi kaam ka.
-  </p>
+//   <h3>7. Copy.ai (Free Plan)</h3>
+//   <p>
+//     Client ke liye captions, short content aur email drafts ke liye kaafi kaam ka.
+//   </p>
 
-  <h3>8. Tidio AI Chatbot</h3>
-  <p>
-    Website ke liye free chatbot. Freelancers apni site ko professional bana sakte hain.
-  </p>
+//   <h3>8. Tidio AI Chatbot</h3>
+//   <p>
+//     Website ke liye free chatbot. Freelancers apni site ko professional bana sakte hain.
+//   </p>
 
-  <h3>9. Trello with AI Automation</h3>
-  <p>
-    Projects aur deadlines manage karne me help karta hai,
-    especially jab multiple clients ho.
-  </p>
+//   <h3>9. Trello with AI Automation</h3>
+//   <p>
+//     Projects aur deadlines manage karne me help karta hai,
+//     especially jab multiple clients ho.
+//   </p>
 
-  <h3>10. Clockwise AI</h3>
-  <p>
-    Time management ke liye underrated tool jo focus time improve karta hai.
-  </p>
+//   <h3>10. Clockwise AI</h3>
+//   <p>
+//     Time management ke liye underrated tool jo focus time improve karta hai.
+//   </p>
 
-  <h2>AI Tools for Content Creators – Creativity Support Ke Liye</h2>
+//   <h2>AI Tools for Content Creators – Creativity Support Ke Liye</h2>
 
-  <h3>11. Pictory AI</h3>
-  <p>
-    Long blog ya script ko short video me convert karta hai.
-    Reels aur shorts ke liye useful.
-  </p>
+//   <h3>11. Pictory AI</h3>
+//   <p>
+//     Long blog ya script ko short video me convert karta hai.
+//     Reels aur shorts ke liye useful.
+//   </p>
 
-  <h3>12. CapCut AI</h3>
-  <p>
-    Free video editing ke saath auto captions aur effects deta hai.
-    Beginners ke liye perfect.
-  </p>
+//   <h3>12. CapCut AI</h3>
+//   <p>
+//     Free video editing ke saath auto captions aur effects deta hai.
+//     Beginners ke liye perfect.
+//   </p>
 
-  <h3>13. Descript</h3>
-  <p>
-    Audio aur video editing ko text jaisa simple bana deta hai.
-  </p>
+//   <h3>13. Descript</h3>
+//   <p>
+//     Audio aur video editing ko text jaisa simple bana deta hai.
+//   </p>
 
-  <h3>14. ElevenLabs (Free Tier)</h3>
-  <p>
-    Natural voiceovers ke liye use hota hai, jo content ko engaging banata hai.
-  </p>
+//   <h3>14. ElevenLabs (Free Tier)</h3>
+//   <p>
+//     Natural voiceovers ke liye use hota hai, jo content ko engaging banata hai.
+//   </p>
 
-  <h3>15. Remove.bg</h3>
-  <p>
-    Image background remove karna seconds ka kaam.
-    Thumbnails ke liye kaafi helpful.
-  </p>
+//   <h3>15. Remove.bg</h3>
+//   <p>
+//     Image background remove karna seconds ka kaam.
+//     Thumbnails ke liye kaafi helpful.
+//   </p>
 
-  <h2>AI Writing & Blogging Tools</h2>
+//   <h2>AI Writing & Blogging Tools</h2>
 
-  <h3>16. QuillBot</h3>
-  <p>
-    Content rewriting aur paraphrasing ke liye useful,
-    especially jab plagiarism avoid karna ho.
-  </p>
+//   <h3>16. QuillBot</h3>
+//   <p>
+//     Content rewriting aur paraphrasing ke liye useful,
+//     especially jab plagiarism avoid karna ho.
+//   </p>
 
-  <h3>17. Hemingway Editor</h3>
-  <p>
-    Writing ko simple aur readable banata hai,
-    jo Google aur readers dono ko pasand aata hai.
-  </p>
+//   <h3>17. Hemingway Editor</h3>
+//   <p>
+//     Writing ko simple aur readable banata hai,
+//     jo Google aur readers dono ko pasand aata hai.
+//   </p>
 
-  <h3>18. Wordtune</h3>
-  <p>
-    Sentences ko natural aur human-like banane me help karta hai.
-  </p>
+//   <h3>18. Wordtune</h3>
+//   <p>
+//     Sentences ko natural aur human-like banane me help karta hai.
+//   </p>
 
-  <h2>AI Tools for Productivity & Daily Work</h2>
+//   <h2>AI Tools for Productivity & Daily Work</h2>
 
-  <h3>19. Google Gemini</h3>
-  <p>
-    Emails, planning aur learning ke liye all-in-one AI assistant.
-  </p>
+//   <h3>19. Google Gemini</h3>
+//   <p>
+//     Emails, planning aur learning ke liye all-in-one AI assistant.
+//   </p>
 
-  <h3>20. Otter.ai</h3>
-  <p>
-    Meetings aur lectures ko automatically text me convert karta hai.
-  </p>
+//   <h3>20. Otter.ai</h3>
+//   <p>
+//     Meetings aur lectures ko automatically text me convert karta hai.
+//   </p>
 
-  <h3>21. Zapier AI</h3>
-  <p>
-    Different apps ko connect karke kaam automate karta hai.
-  </p>
+//   <h3>21. Zapier AI</h3>
+//   <p>
+//     Different apps ko connect karke kaam automate karta hai.
+//   </p>
 
-  <h2>AI Tools for Online Business & Branding</h2>
+//   <h2>AI Tools for Online Business & Branding</h2>
 
-  <h3>22. Looka (Free Preview)</h3>
-  <p>
-    Brand logo aur identity ideas ke liye useful tool.
-  </p>
+//   <h3>22. Looka (Free Preview)</h3>
+//   <p>
+//     Brand logo aur identity ideas ke liye useful tool.
+//   </p>
 
-  <h3>23. Shopify Magic (Limited Free)</h3>
-  <p>
-    Product descriptions likhne me help karta hai,
-    especially beginners ke liye.
-  </p>
+//   <h3>23. Shopify Magic (Limited Free)</h3>
+//   <p>
+//     Product descriptions likhne me help karta hai,
+//     especially beginners ke liye.
+//   </p>
 
-  <h3>24. AdCreative AI</h3>
-  <p>
-    Ads ke creatives generate karta hai,
-    jo marketing beginners ke liye helpful hai.
-  </p>
+//   <h3>24. AdCreative AI</h3>
+//   <p>
+//     Ads ke creatives generate karta hai,
+//     jo marketing beginners ke liye helpful hai.
+//   </p>
 
-  <h2>AI Image Generation Tool</h2>
+//   <h2>AI Image Generation Tool</h2>
 
-  <h3>25. Leonardo AI</h3>
-  <p>
-    Free AI image generation ke liye popular tool.
-    Blog images aur thumbnails ke liye kaafi creative results deta hai.
-  </p>
+//   <h3>25. Leonardo AI</h3>
+//   <p>
+//     Free AI image generation ke liye popular tool.
+//     Blog images aur thumbnails ke liye kaafi creative results deta hai.
+//   </p>
 
-  <h2>Ek Honest Baat</h2>
-  <p>
-    AI tools shortcut nahi hain, balki support system hain.
-    Student ho ya freelancer, mehnat aur consistency aapko hi rakhni hoti hai.
-  </p>
+//   <h2>Ek Honest Baat</h2>
+//   <p>
+//     AI tools shortcut nahi hain, balki support system hain.
+//     Student ho ya freelancer, mehnat aur consistency aapko hi rakhni hoti hai.
+//   </p>
 
-  <p>
-    Lekin agar ek sahi AI tool aapka stress thoda kam kar de
-    aur focus thoda improve kar de, toh wahi uski real value hai.
-    2026 me AI ko ignore karna nahi, samajhkar use karna hi smart move hai.
-  </p>
-</section>`
-  },
+//   <p>
+//     Lekin agar ek sahi AI tool aapka stress thoda kam kar de
+//     aur focus thoda improve kar de, toh wahi uski real value hai.
+//     2026 me AI ko ignore karna nahi, samajhkar use karna hi smart move hai.
+//   </p>
+// </section>`
+//   },
 
-  {
-    slug: "how-google-gemini-ai-revolutionizing-jee-prep-india",
-    title: "How Google’s Gemini AI is Revolutionizing JEE Prep in India",
-    description:
-      "Jaaniye kaise Google ka Gemini AI India me JEE preparation ko smarter, personalized aur less stressful bana raha hai students ke liye.",
-    image: "/images/google-gemini-jee-prep-india.jpg",
-    content: `<section>
-  <h1>How Google’s Gemini AI is Revolutionizing JEE Prep in India</h1>
+//   {
+//     slug: "how-google-gemini-ai-revolutionizing-jee-prep-india",
+//     title: "How Google’s Gemini AI is Revolutionizing JEE Prep in India",
+//     description:
+//       "Jaaniye kaise Google ka Gemini AI India me JEE preparation ko smarter, personalized aur less stressful bana raha hai students ke liye.",
+//     image: "/images/google-gemini-jee-prep-india.jpg",
+//     content: `<section>
+//   <h1>How Google’s Gemini AI is Revolutionizing JEE Prep in India</h1>
 
-  <p>
-    Agar aap India me JEE ki taiyari kar rahe ho, to aap jaante ho yeh sirf ek exam nahi,
-    balki ek emotional journey hoti hai. Subah coaching, shaam self-study, mock tests,
-    aur har din ek naya pressure. Maine apne aas-paas itne students dekhe hain jo
-    potential hone ke bawajood pressure me khud par doubt karne lagte hain.
-  </p>
+//   <p>
+//     Agar aap India me JEE ki taiyari kar rahe ho, to aap jaante ho yeh sirf ek exam nahi,
+//     balki ek emotional journey hoti hai. Subah coaching, shaam self-study, mock tests,
+//     aur har din ek naya pressure. Maine apne aas-paas itne students dekhe hain jo
+//     potential hone ke bawajood pressure me khud par doubt karne lagte hain.
+//   </p>
 
-  <p>
-    Isi beech jab Google ne Gemini AI ko education aur JEE preparation ke liye introduce
-    kiya, to laga shayad yeh sirf ek tech update ho. Lekin jaise-jaise iske baare me
-    samajh aaya, tab realize hua ki yeh Indian students ke liye ek real change la
-    sakta hai.
-  </p>
+//   <p>
+//     Isi beech jab Google ne Gemini AI ko education aur JEE preparation ke liye introduce
+//     kiya, to laga shayad yeh sirf ek tech update ho. Lekin jaise-jaise iske baare me
+//     samajh aaya, tab realize hua ki yeh Indian students ke liye ek real change la
+//     sakta hai.
+//   </p>
 
-  <h2>JEE Preparation: Sirf Padhai Nahi, Mental Pressure Bhi</h2>
-  <p>
-    JEE ka pressure sirf syllabus ka nahi hota. Comparison, expectations aur limited
-    resources bhi ek bada role play karte hain. Har student ek jaisa nahi hota,
-    lekin traditional coaching systems sabko same speed aur same method se padhate hain.
-  </p>
+//   <h2>JEE Preparation: Sirf Padhai Nahi, Mental Pressure Bhi</h2>
+//   <p>
+//     JEE ka pressure sirf syllabus ka nahi hota. Comparison, expectations aur limited
+//     resources bhi ek bada role play karte hain. Har student ek jaisa nahi hota,
+//     lekin traditional coaching systems sabko same speed aur same method se padhate hain.
+//   </p>
 
-  <p>
-    Yahin par Gemini AI ka approach thoda different hai.
-  </p>
+//   <p>
+//     Yahin par Gemini AI ka approach thoda different hai.
+//   </p>
 
-  <h2>Google Gemini AI Kya Hai? Simple Words Me</h2>
-  <p>
-    Gemini AI Google ka advanced artificial intelligence system hai jo students ke
-    learning pattern ko samajhta hai. Yeh sirf answers nahi deta, balki yeh dekhta
-    hai ki student kaha struggle kar raha hai aur kaise improve kar sakta hai.
-  </p>
+//   <h2>Google Gemini AI Kya Hai? Simple Words Me</h2>
+//   <p>
+//     Gemini AI Google ka advanced artificial intelligence system hai jo students ke
+//     learning pattern ko samajhta hai. Yeh sirf answers nahi deta, balki yeh dekhta
+//     hai ki student kaha struggle kar raha hai aur kaise improve kar sakta hai.
+//   </p>
 
-  <p>
-    Iska matlab yeh nahi ki teacher ki value kam ho jaayegi, balki yeh ek smart
-    study companion ki tarah kaam karta hai jo hamesha available hota hai.
-  </p>
+//   <p>
+//     Iska matlab yeh nahi ki teacher ki value kam ho jaayegi, balki yeh ek smart
+//     study companion ki tarah kaam karta hai jo hamesha available hota hai.
+//   </p>
 
-  <h2>Gemini AI JEE Preparation Me Kya Alag Kar Raha Hai?</h2>
+//   <h2>Gemini AI JEE Preparation Me Kya Alag Kar Raha Hai?</h2>
 
-  <h3>Personalized Learning for Every Student</h3>
-  <p>
-    Har student ki strengths aur weaknesses alag hoti hain. Gemini AI student ke
-    performance ke basis par personalized study suggestions deta hai.
-    Agar aap kisi topic me baar-baar galti kar rahe ho, to yeh us topic ko
-    alag tareeke se samjhata hai.
-  </p>
+//   <h3>Personalized Learning for Every Student</h3>
+//   <p>
+//     Har student ki strengths aur weaknesses alag hoti hain. Gemini AI student ke
+//     performance ke basis par personalized study suggestions deta hai.
+//     Agar aap kisi topic me baar-baar galti kar rahe ho, to yeh us topic ko
+//     alag tareeke se samjhata hai.
+//   </p>
 
-  <h3>Concept Clarity Par Focus</h3>
-  <p>
-    JEE me sirf formula yaad karna kaafi nahi hota. Gemini AI concepts ke
-    “why” par focus karta hai. Step-by-step explanations se students ko
-    logic samajhne me madad milti hai.
-  </p>
+//   <h3>Concept Clarity Par Focus</h3>
+//   <p>
+//     JEE me sirf formula yaad karna kaafi nahi hota. Gemini AI concepts ke
+//     “why” par focus karta hai. Step-by-step explanations se students ko
+//     logic samajhne me madad milti hai.
+//   </p>
 
-  <h3>Smart Practice Tests</h3>
-  <p>
-    Normal mock tests sirf rank dikhate hain, lekin Gemini AI ke adaptive tests
-    student ke weak areas ko identify karte hain. Isse student ko yeh samajh
-    aata hai ki problem speed me hai ya understanding me.
-  </p>
+//   <h3>Smart Practice Tests</h3>
+//   <p>
+//     Normal mock tests sirf rank dikhate hain, lekin Gemini AI ke adaptive tests
+//     student ke weak areas ko identify karte hain. Isse student ko yeh samajh
+//     aata hai ki problem speed me hai ya understanding me.
+//   </p>
 
-  <h2>Tier-2 aur Tier-3 Cities Ke Students Ke Liye Opportunity</h2>
-  <p>
-    India me best coaching institutes limited cities tak hi available hote hain.
-    Gemini AI sirf internet aur ek basic device ke saath same level ka guidance
-    provide karta hai. Isse chhote shehron ke students ko bhi equal opportunity milti hai.
-  </p>
+//   <h2>Tier-2 aur Tier-3 Cities Ke Students Ke Liye Opportunity</h2>
+//   <p>
+//     India me best coaching institutes limited cities tak hi available hote hain.
+//     Gemini AI sirf internet aur ek basic device ke saath same level ka guidance
+//     provide karta hai. Isse chhote shehron ke students ko bhi equal opportunity milti hai.
+//   </p>
 
-  <h2>Teachers aur Parents Ke Liye Bhi Helpful</h2>
-  <p>
-    Teachers Gemini AI ke through student progress ko better samajh sakte hain,
-    aur parents sirf marks nahi balki learning growth bhi dekh paate hain.
-    Isse unnecessary pressure bhi kam hota hai.
-  </p>
+//   <h2>Teachers aur Parents Ke Liye Bhi Helpful</h2>
+//   <p>
+//     Teachers Gemini AI ke through student progress ko better samajh sakte hain,
+//     aur parents sirf marks nahi balki learning growth bhi dekh paate hain.
+//     Isse unnecessary pressure bhi kam hota hai.
+//   </p>
 
-  <h2>Kya Gemini AI Sab Problems Solve Kar Dega?</h2>
-  <p>
-    Sach yeh hai ki JEE hamesha challenging rahega. Discipline, consistency aur
-    hard work ki jagah koi AI nahi le sakta. Lekin Gemini AI students ko akela
-    feel nahi hone deta aur unhe right direction deta hai.
-  </p>
+//   <h2>Kya Gemini AI Sab Problems Solve Kar Dega?</h2>
+//   <p>
+//     Sach yeh hai ki JEE hamesha challenging rahega. Discipline, consistency aur
+//     hard work ki jagah koi AI nahi le sakta. Lekin Gemini AI students ko akela
+//     feel nahi hone deta aur unhe right direction deta hai.
+//   </p>
 
-  <h2>Technology Jab Human Touch Ke Saath Aati Hai</h2>
-  <p>
-    Education me technology tabhi kaam karti hai jab woh students ke emotions
-    aur struggles ko samjhe. Gemini AI ka impact sirf exam tak limited nahi,
-    balki yeh confidence aur self-belief build karne me bhi madad karta hai.
-  </p>
+//   <h2>Technology Jab Human Touch Ke Saath Aati Hai</h2>
+//   <p>
+//     Education me technology tabhi kaam karti hai jab woh students ke emotions
+//     aur struggles ko samjhe. Gemini AI ka impact sirf exam tak limited nahi,
+//     balki yeh confidence aur self-belief build karne me bhi madad karta hai.
+//   </p>
 
-  <h2>Ek Personal Soch</h2>
-  <p>
-    Agar Gemini AI mere JEE ke time pe hota, to shayad main apni weaknesses ko
-    aur better handle kar pata. Aaj ke students ke paas better tools hain,
-    bas unhe smart tareeke se use karna zaroori hai.
-  </p>
+//   <h2>Ek Personal Soch</h2>
+//   <p>
+//     Agar Gemini AI mere JEE ke time pe hota, to shayad main apni weaknesses ko
+//     aur better handle kar pata. Aaj ke students ke paas better tools hain,
+//     bas unhe smart tareeke se use karna zaroori hai.
+//   </p>
 
-  <p>
-    JEE ek exam hai, lekin life usse kaafi badi hai. Agar Gemini AI jaise tools
-    learning ko thoda easy aur pressure ko thoda kam bana dete hain,
-    to yeh education ke future ke liye ek positive step hai.
-  </p>
-</section>`
-  },
+//   <p>
+//     JEE ek exam hai, lekin life usse kaafi badi hai. Agar Gemini AI jaise tools
+//     learning ko thoda easy aur pressure ko thoda kam bana dete hain,
+//     to yeh education ke future ke liye ek positive step hai.
+//   </p>
+// </section>`
+//   },
 
 
   {
