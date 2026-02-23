@@ -1,5 +1,213 @@
 export const blogs = [
+{
+  slug: "big-tech-india-ai-summit-investments",
+  title: "Big Tech Ka India AI Summit Bet: Kaise Billion-Dollar Deals Future Ko Shape Kar Rahe Hain",
+  description:
+    "India AI Summit mein announce huye multibillion-dollar deals ka deep analysis — kaise AI ab sirf software nahi, balki infrastructure, capital aur long-term vision par build ho raha hai.",
+  image: "/images/india-ai-summit-big-tech.jpg",
+  content: `<section>
+  <h1>Big Tech Ka India AI Summit Bet: Kaise Billion-Dollar Deals Future Ko Shape Kar Rahe Hain</h1>
 
+  <p>
+    Jab maine pehli baar suna ki duniya ki sabse badi tech companies India mein ek saath
+    billion-dollar investments announce kar rahi hain, toh honestly thoda disbelief hua.
+    Kyunki hum usually sunte the — Silicon Valley decides the future.
+  </p>
+
+  <p>
+    Lekin ab narrative change ho raha hai. AI ka next chapter sirf America ya Europe mein nahi,
+    balki India jaise fast-growing digital ecosystem mein likha ja raha hai.
+  </p>
+
+  <p>
+    Yeh blog koi hype create karne ke liye nahi hai. Yeh ek simple attempt hai samajhne ka —
+    kyun suddenly global tech giants India par itna bada bet laga rahe hain.
+  </p>
+
+  <h2>AI Ab Sirf Software Nahi Raha</h2>
+
+  <p>
+    Pehle jab hum AI bolte the, toh dimaag mein aata tha — apps, chatbots, automation.
+    Lekin aaj AI ek <strong>infrastructure-level technology</strong> ban chuka hai.
+  </p>
+
+  <p>
+    Jaise roads, electricity aur internet economy ko run karte hain,
+    waise hi AI ab har industry ka foundation banne ja raha hai.
+  </p>
+
+  <ul>
+    <li>Massive data centers</li>
+    <li>High-performance GPUs</li>
+    <li>Cloud infrastructure</li>
+    <li>Real-time data pipelines</li>
+    <li>Energy-heavy computing systems</li>
+  </ul>
+
+  <p>
+    Yeh sab build karna cheap nahi hota. Isi liye AI ka game ab capital-driven ho gaya hai.
+  </p>
+
+  <h2>India Kyun Ban Raha Hai Global AI Playground?</h2>
+
+  <p>
+    Sawal simple hai — agar AI itna expensive hai, toh companies India mein invest kyun kar rahi hain?
+  </p>
+
+  <p>
+    Answer bhi simple hai: <strong>Scale + Talent + Digital Adoption</strong>.
+  </p>
+
+  <h3>1. Scale Jo Kahin Aur Nahi Milega</h3>
+  <p>
+    India ek aisa market hai jahan solutions ko millions nahi, billions ke scale par test kiya ja sakta hai.
+    Agar koi AI system yahan kaam kar gaya, toh woh globally kaam karega.
+  </p>
+
+  <h3>2. Talent Already Ready Hai</h3>
+  <p>
+    India already duniya ka software engine raha hai.
+    Ab wahi engineers AI tools, models aur platforms build karne mein shift ho rahe hain.
+  </p>
+
+  <h3>3. Digital Public Infrastructure Ka Advantage</h3>
+  <p>
+    Digital payments, identity systems aur mobile penetration ne ek aisa ecosystem create kiya hai
+    jahan AI solutions directly real-world impact de sakte hain.
+  </p>
+
+  <h2>Billion-Dollar Deals Ka Real Meaning Kya Hai?</h2>
+
+  <p>
+    Yeh investments sirf offices kholne ke liye nahi hain.
+    Yeh actually long-term AI capacity build karne ke liye hain.
+  </p>
+
+  <p>
+    Companies India mein:
+  </p>
+
+  <ul>
+    <li>AI data centers setup kar rahi hain</li>
+    <li>Local language AI models train kar rahi hain</li>
+    <li>Healthcare aur education mein AI deploy kar rahi hain</li>
+    <li>Cloud infrastructure expand kar rahi hain</li>
+    <li>Enterprise AI adoption accelerate kar rahi hain</li>
+  </ul>
+
+  <p>
+    Yeh ek tarah ka “AI Industrial Revolution” hai — jo quietly build ho raha hai.
+  </p>
+
+  <h2>AI Ka Impact Sirf Tech Industry Tak Limited Nahi Rahega</h2>
+
+  <p>
+    Log sochte hain AI sirf coders ko affect karega.
+    Reality mein yeh har sector ko touch karega.
+  </p>
+
+  <h3>Healthcare</h3>
+  <p>
+    Faster diagnosis, predictive analytics aur remote treatment systems healthcare access ko transform kar sakte hain.
+  </p>
+
+  <h3>Education</h3>
+  <p>
+    Personalized AI tutors students ko unki speed aur style ke hisaab se padhayenge.
+  </p>
+
+  <h3>Agriculture</h3>
+  <p>
+    Weather prediction, soil intelligence aur crop optimization directly farmer income improve kar sakte hain.
+  </p>
+
+  <h3>Business Operations</h3>
+  <p>
+    Supply chains smarter ho jayengi, forecasting accurate hogi, aur manual processes gradually automate honge.
+  </p>
+
+  <h2>Yeh Outsourcing Era Se Innovation Era Ki Shift Hai</h2>
+
+  <p>
+    Ek time tha jab India ka role tha — support, services aur backend development.
+  </p>
+
+  <p>
+    Ab shift ho raha hai:
+    <strong>From coding for the world → building intelligence for the world.</strong>
+  </p>
+
+  <p>
+    Yeh psychological change bhi utna hi important hai jitna economic change.
+  </p>
+
+  <h2>AI Investments Ka Dark Side Bhi Samajhna Zaroori Hai</h2>
+
+  <p>
+    Har technological revolution ke saath kuch concerns bhi aate hain:
+  </p>
+
+  <ul>
+    <li>Power few large companies ke paas concentrate ho sakti hai</li>
+    <li>Small startups ke liye entry barrier badh sakta hai</li>
+    <li>Infrastructure cost innovation ko slow kar sakta hai</li>
+  </ul>
+
+  <p>
+    Lekin agar regulation, collaboration aur open ecosystems sahi tarah balance kiye gaye,
+    toh yeh growth inclusive bhi ho sakti hai.
+  </p>
+
+  <h2>India Ke Liye Sabse Badi Learning</h2>
+
+  <p>
+    Talent hona enough nahi hota.
+    Long-term vision + capital + infrastructure equally important hote hain.
+  </p>
+
+  <p>
+    Agar India ko AI race mein leader banna hai,
+    toh focus hona chahiye:
+  </p>
+
+  <ul>
+    <li>Compute infrastructure build karna</li>
+    <li>Research funding increase karna</li>
+    <li>Public-private collaboration strong banana</li>
+    <li>Responsible AI frameworks develop karna</li>
+  </ul>
+
+  <h2>Ek Personal Reflection</h2>
+
+  <p>
+    Mujhe lagta hai hum ek rare moment witness kar rahe hain.
+    Jaise 90s mein internet quietly aa raha tha aur log samajh nahi pa rahe the ki kitna bada impact hoga.
+  </p>
+
+  <p>
+    Aaj AI bhi waisa hi lag raha hai.
+    Slow, complex, expensive — par deeply transformative.
+  </p>
+
+  <h2>Soft Ending</h2>
+
+  <p>
+    India AI Summit ke billion-dollar announcements sirf news headlines nahi hain.
+    Yeh signals hain ki technology ka next phase build ho raha hai —
+    jahan intelligence ek service nahi, ek infrastructure banne wali hai.
+  </p>
+
+  <p>
+    Shayad hum sab ko ab AI ko sirf tool ki tarah nahi,
+    balki ecosystem ki tarah samajhna shuru kar dena chahiye.
+  </p>
+
+  <p>
+    Kyunki future suddenly nahi aata.
+    Woh aise hi quietly investments, partnerships aur ideas ke through build hota rehta hai.
+  </p>
+</section>`
+},
   {
   slug: "spacex-nvidia-ai-runs-on-capital",
   title: "From SpaceX to Nvidia: Kaise AI Aaj Capital Par Chal Rahi Hai",
