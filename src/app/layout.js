@@ -36,6 +36,11 @@ export default function RootLayout({ children }) {
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9254478679971106"
           crossOrigin="anonymous"
         ></script>
+
+        <meta
+          name="google-site-verification"
+          content="Kfl7JqX66cQ1LZOkJFYDZgjgt6wI4DjTKv7rRJYFWqQ"
+        />
       </head>
 
       <body className={`${inter.className} layout`}>
