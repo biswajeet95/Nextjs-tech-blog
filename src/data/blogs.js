@@ -1,4 +1,241 @@
 export const blogs = [
+  {
+  slug: "ai-layoffs-2026-tech-companies-cut-jobs",
+  title: "AI Layoffs 2026: Meta, Oracle aur Amazon Jaise Tech Giants Ne 35,000+ Jobs Kyu Cut Ki?",
+  description:
+    "2026 me AI restructuring ke chalte Meta, Amazon aur Oracle jaise tech giants ne 35,000 se zyada jobs cut ki. Samajhiye AI layoffs ka real reason aur future jobs par iska impact.",
+  image: "/images/ai-layoffs-2026.jpg",
+  date: "March 10, 2026",
+  tags: ["AI", "Tech News", "Layoffs", "Artificial Intelligence", "Future of Jobs"],
+  content: `<section>
+
+  <h1>AI Layoffs 2026: Meta, Oracle aur Amazon Jaise Tech Giants Ne 35,000+ Jobs Kyu Cut Ki?</h1>
+
+  <p>
+    Agar aap tech industry ko follow karte hain, toh shayad aapne recently ek shocking news suni hogi —
+    2026 mein 35,000 se zyada tech jobs cut ho chuki hain.
+  </p>
+
+  <p>
+    Aur ye layoffs chhoti companies nahi, balki duniya ki sabse badi tech companies kar rahi hain —
+    jaise Meta, Oracle aur Amazon.
+  </p>
+
+  <p>
+    Pehle jab layoffs ki news aati thi toh log sochte the ki shayad company loss mein hogi.
+    Lekin iss baar reason thoda alag hai. Is baar Artificial Intelligence yani AI ka bada role hai.
+  </p>
+
+  <p>
+    AI tools aur automation itni fast grow kar rahe hain ki companies apne workforce ko restructure kar rahi hain.
+    Matlab kuch jobs khatam ho rahi hain, aur kuch nayi skills ki demand badh rahi hai.
+  </p>
+
+  <h2>AI Layoffs 2026: Tech Industry Mein Kya Ho Raha Hai?</h2>
+
+  <p>
+    2026 mein global tech industry ek bade transition phase se guzar rahi hai.
+    Companies ab sirf employees hire karne par focus nahi kar rahi.
+  </p>
+
+  <p>
+    Instead, woh AI aur automation use karke kaam ko fast aur efficient bana rahi hain.
+    Isi wajah se kuch departments mein employees ki need kam ho gayi hai.
+  </p>
+
+  <ul>
+    <li>35,000+ tech employees layoffs face kar chuke hain</li>
+    <li>AI aur automation projects mein investment badh raha hai</li>
+    <li>Traditional roles gradually reduce ho rahe hain</li>
+  </ul>
+
+  <p>
+    Experts ise ek tarah ka <strong>AI restructuring phase</strong> keh rahe hain.
+  </p>
+
+  <h2>Kaunsi Companies Ne Layoffs Kiye?</h2>
+
+  <h3>Meta</h3>
+
+  <p>
+    Meta, jo Facebook, Instagram aur WhatsApp ko operate karta hai,
+    AI technology mein aggressively invest kar raha hai.
+  </p>
+
+  <p>
+    Company ka focus ab AI recommendation systems,
+    automated moderation tools aur intelligent content systems par shift ho raha hai.
+  </p>
+
+  <p>
+    Is transformation ke chalte kuch traditional teams ko restructure kiya gaya hai.
+  </p>
+
+  <h3>Amazon</h3>
+
+  <p>
+    Amazon bhi AI revolution mein aggressively invest kar raha hai.
+    Company apne platforms par AI integrate kar rahi hai.
+  </p>
+
+  <ul>
+    <li>AI customer support systems</li>
+    <li>AI logistics optimization</li>
+    <li>Automated warehouse operations</li>
+  </ul>
+
+  <p>
+    Jab automation badhta hai, toh kuch manual roles naturally reduce ho jaate hain.
+  </p>
+
+  <h3>Oracle</h3>
+
+  <p>
+    Enterprise software giant Oracle bhi AI-powered cloud services par focus kar raha hai.
+  </p>
+
+  <p>
+    Company AI data analytics, automation tools aur intelligent enterprise software develop kar rahi hai.
+    Is transition ke chalte kuch old roles replace ho rahe hain.
+  </p>
+
+  <h2>AI Ka Impact Jobs Par Kaise Pad Raha Hai?</h2>
+
+  <p>
+    AI ek powerful technology hai. Yeh ek taraf nayi opportunities create kar raha hai,
+    aur dusri taraf kuch traditional roles ko replace bhi kar raha hai.
+  </p>
+
+  <p>
+    Kuch roles jahan AI ka impact zyada ho raha hai:
+  </p>
+
+  <ul>
+    <li>Basic data entry jobs</li>
+    <li>Customer support agents</li>
+    <li>Routine coding tasks</li>
+    <li>Content moderation roles</li>
+  </ul>
+
+  <p>
+    AI tools ab ye tasks faster aur cheaper tarike se perform kar sakte hain.
+  </p>
+
+  <h2>Kya AI Sabki Jobs Le Lega?</h2>
+
+  <p>
+    Ye question aaj kal almost har student aur professional ke mind mein hai.
+  </p>
+
+  <p>
+    Reality yeh hai ki AI sabki jobs nahi lega,
+    lekin jobs ka nature zaroor change karega.
+  </p>
+
+  <p>
+    Jaise internet ne naye careers create kiye the —
+    digital marketing, content creation aur social media management —
+    waise hi AI bhi naye job opportunities create karega.
+  </p>
+
+  <h2>Future Mein Kaunsi Skills Important Hongi?</h2>
+
+  <p>
+    Agar aap technology field mein career banana chahte hain,
+    toh kuch skills future mein zyada valuable hongi.
+  </p>
+
+  <ul>
+    <li>AI tools ka practical use</li>
+    <li>Data analysis</li>
+    <li>Problem solving skills</li>
+    <li>Creative thinking</li>
+    <li>Automation tools understanding</li>
+  </ul>
+
+  <p>
+    Simple words mein kahen toh —
+    AI ko use karne wale log future mein zyada valuable honge.
+  </p>
+
+  <h2>Real Life Example: Kaam Karne Ka Tarika Kaise Badal Raha Hai</h2>
+
+  <p>
+    Ek chhota example lete hain.
+  </p>
+
+  <p>
+    Pehle ek company ko blog content create karne ke liye 8–10 writers ki team chahiye hoti thi.
+  </p>
+
+  <p>
+    Aaj AI tools ki help se research fast ho jata hai,
+    editing easy ho jaati hai aur writers kam time mein zyada kaam kar paate hain.
+  </p>
+
+  <p>
+    Iska matlab ye nahi ki writers ki job khatam ho gayi —
+    bas kaam karne ka tarika change ho gaya hai.
+  </p>
+
+  <h2>Students Aur Developers Ko Kya Karna Chahiye?</h2>
+
+  <p>
+    Agar aap student hain ya developer hain,
+    toh AI se darne ki jagah usko samajhna zyada important hai.
+  </p>
+
+  <ul>
+    <li>AI tools explore kijiye</li>
+    <li>Automation seekhiye</li>
+    <li>New technologies ke saath updated rahiye</li>
+    <li>Continuous learning habit develop kijiye</li>
+  </ul>
+
+  <p>
+    Technology industry mein ek rule hamesha se same raha hai —
+    jo log adapt karte hain, wahi grow karte hain.
+  </p>
+
+  <h2>Layoffs Ki Emotional Reality</h2>
+
+  <p>
+    Layoffs sirf numbers nahi hote.
+    Har ek layoff ke peeche ek real insaan hota hai — ek family hoti hai aur ek future hota hai.
+  </p>
+
+  <p>
+    Bahut se employees shock mein hain kyunki AI itni fast industry ko transform karega,
+    shayad kisi ne imagine nahi kiya tha.
+  </p>
+
+  <p>
+    Lekin history dekhen toh har technological revolution ke time par aisa hi hua hai.
+  </p>
+
+  <h2>Soft Ending</h2>
+
+  <p>
+    2026 ka tech landscape rapidly change ho raha hai.
+  </p>
+
+  <p>
+    AI tools aur automation companies ko efficient bana rahe hain,
+    lekin iss process mein jobs ka structure bhi change ho raha hai.
+  </p>
+
+  <p>
+    Har technological change ke saath naye opportunities bhi aati hain.
+    Bas un logon ke liye jo seekhne aur adapt karne ke liye ready hote hain.
+  </p>
+
+  <p>
+    Shayad future ka simple rule yehi hai —
+    AI se compete mat kijiye, AI ke saath kaam karna seekhiye.
+  </p>
+
+</section>`
+},
 {
   slug: "big-tech-india-ai-summit-investments",
   title: "Big Tech Ka India AI Summit Bet: Kaise Billion-Dollar Deals Future Ko Shape Kar Rahe Hain",
