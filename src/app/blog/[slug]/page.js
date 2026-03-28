@@ -153,8 +153,17 @@ export default async function BlogPage({ params }) {
           className="blog-image"
           style={{ width: "100%", maxHeight: "400px", objectFit: "cover" }}
         />
-
+        {/* Copyright Notice */}
+        {blog.copyright && (
+          <p className="copyright">
+            {blog.copyright}
+          </p>
+        )}
         {/* Blog Content */}
+
+   
+
+
         <section
           className="blog-body"
           dangerouslySetInnerHTML={{ __html: contentWithIds }}

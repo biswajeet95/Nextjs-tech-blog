@@ -1,13 +1,14 @@
 export const blogs = [
-{
-  slug: "elon-musk-robot-plan-future-jobs-ai-revolution-2026",
-  title: "Elon Musk Ka Master Plan: Kya Robots Human Jobs Khatam Kar Denge? Future Ka Sach 2026",
-  description:
-    "Elon Musk aur dusre billionaires humanoid robots aur AI ke through human labor ko replace karne ka plan bana rahe hain. Samajhiye kaise ye future jobs, daily life aur aapke career ko impact kar sakta hai.",
-  image: "/images/elon-musk-robot-ai.jpg",
-  date: "March 28, 2026",
-  tags: ["Elon Musk", "AI", "Robots", "Future Jobs", "Tech News", "Automation", "Artificial Intelligence", "Future Technology"],
-  content: `<section>
+  {
+    slug: "elon-musk-robot-plan-future-jobs-ai-revolution-2026",
+    title: "Elon Musk Ka Master Plan: Kya Robots Human Jobs Khatam Kar Denge? Future Ka Sach 2026",
+    description:
+      "Elon Musk aur dusre billionaires humanoid robots aur AI ke through human labor ko replace karne ka plan bana rahe hain. Samajhiye kaise ye future jobs, daily life aur aapke career ko impact kar sakta hai.",
+    image: "/images/elon-musk-robot-ai.jpg",
+    copyright: "© 2026 Biswajeet Moharana | Image Source: Pexels",
+    date: "March 28, 2026",
+    tags: ["Elon Musk", "AI", "Robots", "Future Jobs", "Tech News", "Automation", "Artificial Intelligence", "Future Technology"],
+    content: `<section>
 
   <h1>Elon Musk Ka Master Plan: Kya Robots Human Jobs Khatam Kar Denge? Future Ka Sach 2026</h1>
 
@@ -166,17 +167,18 @@ export const blogs = [
   </p>
 
 </section>`
-},
+  },
 
   {
-  slug: "apple-siri-standalone-ai-app-2026-future-upgrade",
-  title: "Apple Siri New AI App 2026: Kya Siri Banegi ChatGPT Jaisi Smart Assistant?",
-  description:
-    "Apple apni Siri ko ek powerful standalone AI app banane par kaam kar raha hai. Samajhiye kaise ye update aapke daily life, productivity aur smartphone use karne ka tarika completely change kar sakta hai.",
-  image: "/images/apple-siri-ai.jpg",
-  date: "March 27, 2026",
-  tags: ["Apple", "Siri", "AI", "Tech News", "Future Technology", "AI Assistant", "Apple AI", "Innovation"],
-  content: `<section>
+    slug: "apple-siri-standalone-ai-app-2026-future-upgrade",
+    title: "Apple Siri New AI App 2026: Kya Siri Banegi ChatGPT Jaisi Smart Assistant?",
+    description:
+      "Apple apni Siri ko ek powerful standalone AI app banane par kaam kar raha hai. Samajhiye kaise ye update aapke daily life, productivity aur smartphone use karne ka tarika completely change kar sakta hai.",
+    image: "/images/apple-siri-ai.jpg",
+    copyright: "© 2026 Biswajeet Moharana | Image Source: Pexels",
+    date: "March 27, 2026",
+    tags: ["Apple", "Siri", "AI", "Tech News", "Future Technology", "AI Assistant", "Apple AI", "Innovation"],
+    content: `<section>
 
   <h1>Apple Siri New AI App 2026: Kya Siri Banegi ChatGPT Jaisi Smart Assistant?</h1>
 
@@ -419,16 +421,17 @@ export const blogs = [
   </p>
 
 </section>`
-},
+  },
   {
-  slug: "china-ultra-cold-alloy-273c-without-helium-quantum-cooling",
-  title: "China’s Ultra-Cold Alloy: -273°C Cooling Without Helium Explained Simply",
-  description:
-    "China ne ek ultra-cold alloy develop kiya hai jo -273°C tak cooling bina helium ke achieve kar sakta hai. Samajhiye kaise ye quantum computers, AI aur future technology ko completely change kar sakta hai.",
-  image: "/images/ultra-cold-alloy.jpg",
-  date: "March 23, 2026",
-  tags: ["AI", "Future Tech", "Quantum Computing", "China Tech", "Innovation", "Science"],
-  content: `<section>
+    slug: "china-ultra-cold-alloy-273c-without-helium-quantum-cooling",
+    title: "China’s Ultra-Cold Alloy: -273°C Cooling Without Helium Explained Simply",
+    description:
+      "China ne ek ultra-cold alloy develop kiya hai jo -273°C tak cooling bina helium ke achieve kar sakta hai. Samajhiye kaise ye quantum computers, AI aur future technology ko completely change kar sakta hai.",
+    image: "/images/ultra-cold-alloy.jpg",
+    copyright: "© 2026 Biswajeet Moharana | Image Source: Pexels",
+    date: "March 23, 2026",
+    tags: ["AI", "Future Tech", "Quantum Computing", "China Tech", "Innovation", "Science"],
+    content: `<section>
 
   <h1>China’s Ultra-Cold Alloy: -273°C Cooling Without Helium Explained Simply</h1>
 
@@ -614,13 +617,14 @@ export const blogs = [
   </p>
 
 </section>`
-},
-   {
+  },
+  {
     slug: "ai-super-bowl-nvidia-tesla-meta-metaverse-reality",
     title: "AI ka Super Bowl: Nvidia ka Blast, Tesla Disappoint aur Meta ka Metaverse Slowdown",
     description:
       "AI race 2026 mein Nvidia ka bada event, Tesla ka slowdown aur Meta ke metaverse ka reality check saamne aa raha hai. Samajhiye kaise ye changes tech duniya aur aapke future ko impact karte hain.",
     image: "/images/ai-super-bowl-nvidia.jpg",
+    copyright: "© 2026 Biswajeet Moharana | Image Source: Pexels",
     date: "March 20, 2026",
     tags: ["AI", "Tech News", "Nvidia", "Tesla", "Meta", "Metaverse", "AI Trends"],
     content: `<section>
@@ -796,14 +800,15 @@ export const blogs = [
 </section>`
   },
   {
-  slug: "ai-prediction-shocking-australia-world-future-impact",
-  title: "AI Ka Future Prediction Jo Australia Se Duniya Tak Sabko Shock Kar Raha Hai",
-  description:
-    "Artificial Intelligence ka ek aisa future prediction saamne aaya hai jo Australia se lekar poori duniya ko impact kar sakta hai. Janiye kaise AI jobs, students aur daily life ko completely change karne wala hai.",
-  image: "/images/ai-future-prediction.jpg",
-  date: "March 18, 2026",
-  tags: ["AI", "Tech News", "Artificial Intelligence", "Future Jobs", "AI Impact"],
-  content: `<section>
+    slug: "ai-prediction-shocking-australia-world-future-impact",
+    title: "AI Ka Future Prediction Jo Australia Se Duniya Tak Sabko Shock Kar Raha Hai",
+    description:
+      "Artificial Intelligence ka ek aisa future prediction saamne aaya hai jo Australia se lekar poori duniya ko impact kar sakta hai. Janiye kaise AI jobs, students aur daily life ko completely change karne wala hai.",
+    image: "/images/ai-future-prediction.jpg",
+    copyright: "© 2026 Biswajeet Moharana | Image Source: Pexels",
+    date: "March 18, 2026",
+    tags: ["AI", "Tech News", "Artificial Intelligence", "Future Jobs", "AI Impact"],
+    content: `<section>
 
   <h1>AI Ka Future Prediction Jo Australia Se Duniya Tak Sabko Shock Kar Raha Hai</h1>
 
@@ -1003,16 +1008,17 @@ export const blogs = [
   </p>
 
 </section>`
-},
+  },
   {
-  slug: "meta-enters-ai-chip-race-after-nvidia-amd-deals",
-  title: "Meta Enters AI Chip Race: Nvidia aur AMD Deals Ke Baad Big Tech Hardware War Start",
-  description:
-    "Nvidia aur AMD AI chip deals ke baad Meta bhi custom AI chips develop karne ki race mein enter kar chuka hai. Samajhiye kyun Google, Microsoft aur Meta jaise tech giants apna AI hardware bana rahe hain.",
-  image: "/images/meta-ai-chip-race.jpg",
-  date: "March 15, 2026",
-  tags: ["AI", "Tech News", "Artificial Intelligence", "Meta", "AI Chips"],
-  content: `<section>
+    slug: "meta-enters-ai-chip-race-after-nvidia-amd-deals",
+    title: "Meta Enters AI Chip Race: Nvidia aur AMD Deals Ke Baad Big Tech Hardware War Start",
+    description:
+      "Nvidia aur AMD AI chip deals ke baad Meta bhi custom AI chips develop karne ki race mein enter kar chuka hai. Samajhiye kyun Google, Microsoft aur Meta jaise tech giants apna AI hardware bana rahe hain.",
+    image: "/images/meta-ai-chip-race.jpg",
+    copyright: "© 2026 Biswajeet Moharana | Image Source: Pexels",
+    date: "March 15, 2026",
+    tags: ["AI", "Tech News", "Artificial Intelligence", "Meta", "AI Chips"],
+    content: `<section>
 
   <h1>Meta Enters AI Chip Race: Nvidia aur AMD Deals Ke Baad Big Tech Hardware War Start</h1>
 
@@ -1254,16 +1260,17 @@ export const blogs = [
   </p>
 
 </section>`
-},
+  },
   {
-  slug: "ai-layoffs-2026-tech-companies-cut-jobs",
-  title: "AI Layoffs 2026: Meta, Oracle aur Amazon Jaise Tech Giants Ne 35,000+ Jobs Kyu Cut Ki?",
-  description:
-    "2026 me AI restructuring ke chalte Meta, Amazon aur Oracle jaise tech giants ne 35,000 se zyada jobs cut ki. Samajhiye AI layoffs ka real reason aur future jobs par iska impact.",
-  image: "/images/ai-layoffs-2026.jpg",
-  date: "March 10, 2026",
-  tags: ["AI", "Tech News", "Layoffs", "Artificial Intelligence", "Future of Jobs"],
-  content: `<section>
+    slug: "ai-layoffs-2026-tech-companies-cut-jobs",
+    title: "AI Layoffs 2026: Meta, Oracle aur Amazon Jaise Tech Giants Ne 35,000+ Jobs Kyu Cut Ki?",
+    description:
+      "2026 me AI restructuring ke chalte Meta, Amazon aur Oracle jaise tech giants ne 35,000 se zyada jobs cut ki. Samajhiye AI layoffs ka real reason aur future jobs par iska impact.",
+    image: "/images/ai-layoffs-2026.jpg",
+    copyright: "© 2026 Biswajeet Moharana | Image Source: Pexels",
+    date: "March 10, 2026",
+    tags: ["AI", "Tech News", "Layoffs", "Artificial Intelligence", "Future of Jobs"],
+    content: `<section>
 
   <h1>AI Layoffs 2026: Meta, Oracle aur Amazon Jaise Tech Giants Ne 35,000+ Jobs Kyu Cut Ki?</h1>
 
@@ -1491,14 +1498,15 @@ export const blogs = [
   </p>
 
 </section>`
-},
-{
-  slug: "big-tech-india-ai-summit-investments",
-  title: "Big Tech Ka India AI Summit Bet: Kaise Billion-Dollar Deals Future Ko Shape Kar Rahe Hain",
-  description:
-    "India AI Summit mein announce huye multibillion-dollar deals ka deep analysis — kaise AI ab sirf software nahi, balki infrastructure, capital aur long-term vision par build ho raha hai.",
-  image: "/images/india-ai-summit-big-tech.jpg",
-  content: `<section>
+  },
+  {
+    slug: "big-tech-india-ai-summit-investments",
+    title: "Big Tech Ka India AI Summit Bet: Kaise Billion-Dollar Deals Future Ko Shape Kar Rahe Hain",
+    description:
+      "India AI Summit mein announce huye multibillion-dollar deals ka deep analysis — kaise AI ab sirf software nahi, balki infrastructure, capital aur long-term vision par build ho raha hai.",
+    image: "/images/india-ai-summit-big-tech.jpg",
+    copyright: "© 2026 Biswajeet Moharana | Image Source: Pexels",
+    content: `<section>
   <h1>Big Tech Ka India AI Summit Bet: Kaise Billion-Dollar Deals Future Ko Shape Kar Rahe Hain</h1>
 
   <p>
@@ -1700,14 +1708,15 @@ export const blogs = [
     Woh aise hi quietly investments, partnerships aur ideas ke through build hota rehta hai.
   </p>
 </section>`
-},
+  },
   {
-  slug: "spacex-nvidia-ai-runs-on-capital",
-  title: "From SpaceX to Nvidia: Kaise AI Aaj Capital Par Chal Rahi Hai",
-  description:
-    "SpaceX, Nvidia aur big tech deals ka analysis jo clearly dikhata hai ki aaj AI sirf code se nahi, balki heavy capital aur infrastructure se run ho rahi hai.",
-  image: "/images/spacex-nvidia-ai-capital.jpg",
-  content: `<section>
+    slug: "spacex-nvidia-ai-runs-on-capital",
+    title: "From SpaceX to Nvidia: Kaise AI Aaj Capital Par Chal Rahi Hai",
+    description:
+      "SpaceX, Nvidia aur big tech deals ka analysis jo clearly dikhata hai ki aaj AI sirf code se nahi, balki heavy capital aur infrastructure se run ho rahi hai.",
+    image: "/images/spacex-nvidia-ai-capital.jpg",
+    copyright: "© 2026 Biswajeet Moharana | Image Source: Pexels",
+    content: `<section>
   <h1>From SpaceX to Nvidia: Kaise AI Aaj Capital Par Chal Rahi Hai</h1>
 
   <p>
@@ -1845,7 +1854,7 @@ export const blogs = [
     Kyunki future unka hota hai, jo aane wale time ko aaj hi samajh lete hain.
   </p>
 </section>`
-},
+  },
 
   {
     slug: "25-best-free-ai-tools-2026-students-freelancers-creators",
@@ -1853,6 +1862,7 @@ export const blogs = [
     description:
       "2026 me students, freelancers aur content creators ke liye best free AI tools jo padhai, kaam aur creativity ko genuinely easy bana dete hain – bina credit card ke.",
     image: "/images/best-free-ai-tools-2026.jpg",
+    copyright: "© 2026 Biswajeet Moharana | Image Source: Pexels",
     content: `<section>
   <h1>25 Best Free AI Tools in 2026 for Students, Freelancers & Creators</h1>
 
@@ -2043,6 +2053,7 @@ export const blogs = [
     description:
       "Jaaniye kaise Google ka Gemini AI India me JEE preparation ko smarter, personalized aur less stressful bana raha hai students ke liye.",
     image: "/images/google-gemini-jee-prep-india.jpg",
+    copyright: "© 2026 Biswajeet Moharana | Image Source: Pexels",
     content: `<section>
   <h1>How Google’s Gemini AI is Revolutionizing JEE Prep in India</h1>
 
@@ -2157,6 +2168,7 @@ export const blogs = [
     description:
       "Students aur freelancers ke liye best free AI tools jo study, content, design aur productivity me real help karte hain.",
     image: "/images/ai-tools-students-freelancers.jpg",
+    copyright: "© 2026 Biswajeet Moharana | Image Source: Pexels",
     content: `<section>
   <h1>🤖 Best Free AI Tools for Students & Freelancers</h1>
 
@@ -2287,6 +2299,7 @@ export const blogs = [
     title: "The Future of AI",
     description: "Artificial Intelligence ka future aur alag-alag industries par iska impact.",
     image: "/images/nextjs.jpg",
+    copyright: "© 2026 Biswajeet Moharana | Image Source: Pexels",
     content: `<section>
   <h1>🔮 AI ka Future: Aage Kya Hone Wala Hai?</h1>
   <p>
@@ -2460,6 +2473,7 @@ export const blogs = [
     title: "What is Java? Explained Simply",
     description: "Java kya hai, kaise kaam karta hai aur beginners ke liye kyun important hai – simple Hinglish guide.",
     image: "/images/javascript.jpg",
+    copyright: "© 2026 Biswajeet Moharana | Image Source: Pexels",
     content: `<section>
   <h1>☕ What is Java? Simple Language Mein Java Samjho</h1>
 
@@ -2609,30 +2623,14 @@ export const blogs = [
     toh Java aapke career ke liye ek strong pillar ban sakti hai.
   </p>
 </section>`
-
-
   },
-  // {
-  //   slug: "what-is-react",
-  //   title: "What is React? Beginner Friendly Guide",
-  //   description: "Learn what React is and why developers love it.",
-  //   image: "/images/react.jpg",
-  //   content: `
-  //     <h2>Introduction</h2>
-  //     <p>React is a JavaScript library used for building fast user interfaces.</p>
-
-  //     <h2>Why React?</h2>
-  //     <p>React uses components, virtual DOM, and is very efficient.</p>
-  //   `,
-  // },
-
-
   {
     slug: "what-is-react-beginner-friendly-guide",
     title: "What is React? Beginner Friendly Guide",
     description:
       "React kya hai, kaise kaam karta hai aur beginners ke liye React kyun important hai – simple Hinglish guide.",
     image: "/images/react.jpg",
+    copyright: "© 2026 Biswajeet Moharana | Image Source: Pexels",
     content: `<section>
   <h1>⚛️ What is React? Beginner Friendly Guide (Simple Hinglish Mein)</h1>
 
@@ -2806,6 +2804,7 @@ export const blogs = [
     description:
       "Next.js kya hai, React se kaise different hai aur modern websites ke liye Next.js kyun best choice hai – simple Hinglish guide.",
     image: "/images/nextjs.jpg",
+    copyright: "© 2026 Biswajeet Moharana | Image Source: Pexels",
     content: `<section>
   <h1>🚀 What is Next.js? Beginner Friendly Guide (Simple Hinglish Mein)</h1>
 
@@ -2996,6 +2995,7 @@ export const blogs = [
     description:
       "JavaScript kya hai, kyun itna important hai aur kaise websites ko interactive banata hai – beginner friendly Hinglish explanation.",
     image: "/images/javascript.jpg",
+    copyright: "© 2026 Biswajeet Moharana | Image Source: Pexels",
     content: `<section>
   <h1>✨ What is JavaScript? Explained Simply (Beginner Friendly)</h1>
 
