@@ -1,17 +1,191 @@
 export const blogs = [
- 
- 
- 
   {
-  slug: "apple-ai-siri-gemini-deal-ex-google-executive-2026",
-  title: "Apple AI Update 2026: Siri ke liye Gemini Deal ke baad Ex-Google Executive Hire",
-  description:
-    "Apple ne Siri ko smarter banane ke liye Gemini deal ke baad ex-Google executive hire kiya hai. Janiye kaise ye AI update iPhone users aur future technology ko impact karega.",
-  image: "/images/apple-ai-siri.jpg",
-  copyright: "© 2026 Biswajeet Moharana | Image Source: Pexels",
-  date: "March 29, 2026",
-  tags: ["Apple AI", "Siri Update", "Gemini AI", "Tech News 2026", "Artificial Intelligence", "iPhone AI", "Apple News", "AI Future"],
-  content: `<section>
+    slug: "microsoft-10-billion-ai-push-stock-jump-2026",
+    title: "Microsoft ka $10 Billion AI Plan: Kaise Ek Decision ne Stock ko 20% Tak Uda Diya",
+    description:
+      "Microsoft ne $10 billion AI investment plan announce kiya aur uske baad stock 20% tak jump kar gaya. Samajhiye iska impact, future scope aur common logon ke liye iska kya matlab hai.",
+    image: "/images/microsoft-ai.jpg",
+    copyright: "© 2026 Biswajeet Moharana | Image Source: Pexels",
+    date: "April 3, 2026",
+    tags: ["Microsoft AI", "Tech News 2026", "Artificial Intelligence", "Stock Market", "AI Future", "Microsoft News"],
+    content: `<section>
+
+  <h1>Microsoft ka $10 Billion AI Plan: Kaise Ek Decision ne Stock ko 20% Tak Uda Diya</h1>
+
+  <p>
+    Kabhi aisa hota hai na ki aap ek chhoti si news padhte ho… aur realize hota hai ki yeh future change karne wali hai?
+  </p>
+
+  <p>
+    Mujhe bhi exactly wahi feel hua jab maine suna ki Microsoft ne $10 billion ka AI investment plan announce kiya hai.
+  </p>
+
+  <p>
+    Aur sabse shocking baat? Is announcement ke baad company ka stock lagbhag 20% tak jump kar gaya 😳
+  </p>
+
+  <h2>Microsoft ka AI Push: Actually ho kya raha hai?</h2>
+
+  <p>
+    Microsoft ka focus ab clear hai — AI hi future hai.
+  </p>
+
+  <p>
+    Company heavy investment kar rahi hai:
+  </p>
+
+  <ul>
+    <li>AI infrastructure aur data centers</li>
+    <li>Advanced AI models aur tools</li>
+    <li>Cloud + AI integration</li>
+    <li>Cybersecurity improvements</li>
+  </ul>
+
+  <p>
+    Yeh sirf ek investment nahi, balki ek long-term strategy hai.
+  </p>
+
+  <h2>Stock 20% Kyun Jump Hua?</h2>
+
+  <p>
+    Normal sochoge toh lagega investment risky hota hai, phir stock kyun bada?
+  </p>
+
+  <p>
+    Reason simple hai — investors ko future dikh raha hai.
+  </p>
+
+  <ul>
+    <li>AI future ka biggest trend hai</li>
+    <li>Microsoft already cloud mein strong hai</li>
+    <li>AI + Cloud = powerful combination</li>
+    <li>Long-term profit ka strong expectation</li>
+  </ul>
+
+  <h2>Real Life Example: AI ka Impact Already Shuru</h2>
+
+  <p>
+    Aaj hum sab AI tools use kar rahe hain — chahe wo chatbots ho, content tools ho ya automation systems.
+  </p>
+
+  <p>
+    Mere ek dost ne apne small business mein AI chatbot use karna start kiya.
+  </p>
+
+  <p>
+    Jahan pehle 2 log chahiye hote the, ab ek AI tool kaafi hai.
+  </p>
+
+  <p>
+    Yeh sirf start hai… aur Microsoft isi trend ko scale karna chahta hai.
+  </p>
+
+  <h2>Microsoft ka Vision: Ecosystem Banana</h2>
+
+  <p>
+    Microsoft sirf ek product nahi bana raha, balki pura ecosystem create kar raha hai.
+  </p>
+
+  <ul>
+    <li>Azure cloud + AI integration</li>
+    <li>Office tools mein AI features</li>
+    <li>Developer tools jaise AI coding assistants</li>
+    <li>Enterprise AI solutions</li>
+  </ul>
+
+  <p>
+    Matlab future mein agar kisi company ko AI use karna hai, toh Microsoft ek complete solution dena chahta hai.
+  </p>
+
+  <h2>Kya Yeh Plan Risky Bhi Hai?</h2>
+
+  <p>
+    Har bada investment ke saath risk bhi hota hai.
+  </p>
+
+  <ul>
+    <li>High cost aur slow returns</li>
+    <li>Energy consumption ka issue</li>
+    <li>Competition from Google, Amazon, Apple</li>
+    <li>Short-term stock fluctuations</li>
+  </ul>
+
+  <p>
+    Isliye yeh ek bold move hai, safe nahi.
+  </p>
+
+  <h2>AI War: Competition Aur Tez Hone Wala Hai</h2>
+
+  <p>
+    Ab clearly ek AI race chal rahi hai:
+  </p>
+
+  <ul>
+    <li>Microsoft → heavy investment</li>
+    <li>Google → innovation aur research</li>
+    <li>Amazon → cloud + AI services</li>
+    <li>Apple → device-based AI</li>
+  </ul>
+
+  <p>
+    Yeh competition hi technology ko fast evolve kar raha hai.
+  </p>
+
+  <h2>Common Logon Ke Liye Kya Matlab Hai?</h2>
+
+  <p>
+    Yeh sirf companies ke liye nahi hai — iska impact hum sab par padega.
+  </p>
+
+  <ul>
+    <li>Kuch jobs replace hongi</li>
+    <li>Naye AI-based jobs create honge</li>
+    <li>AI skills ki demand badhegi</li>
+    <li>Business opportunities grow hongi</li>
+  </ul>
+
+  <h2>Ek Personal Thought</h2>
+
+  <p>
+    Sach bolu toh AI ka naam sunke thoda dar lagta hai.
+  </p>
+
+  <p>
+    Lekin reality yeh hai ki technology hamesha change laati hai.
+  </p>
+
+  <p>
+    Jo adapt karta hai, wahi grow karta hai.
+  </p>
+
+  <h2>Soft Ending</h2>
+
+  <p>
+    Microsoft ka yeh $10 billion plan sirf ek investment nahi, ek direction hai.
+  </p>
+
+  <p>
+    Aaj stock 20% bada hai, kal shayad poori duniya ka kaam karne ka tareeka badal jaaye.
+  </p>
+
+  <p>
+    Shayad ab sahi waqt hai yeh sochne ka — hum AI ke saath kaise grow kar sakte hain.
+  </p>
+
+</section>`
+  },
+
+
+  {
+    slug: "apple-ai-siri-gemini-deal-ex-google-executive-2026",
+    title: "Apple AI Update 2026: Siri ke liye Gemini Deal ke baad Ex-Google Executive Hire",
+    description:
+      "Apple ne Siri ko smarter banane ke liye Gemini deal ke baad ex-Google executive hire kiya hai. Janiye kaise ye AI update iPhone users aur future technology ko impact karega.",
+    image: "/images/apple-ai-siri.jpg",
+    copyright: "© 2026 Biswajeet Moharana | Image Source: Pexels",
+    date: "March 29, 2026",
+    tags: ["Apple AI", "Siri Update", "Gemini AI", "Tech News 2026", "Artificial Intelligence", "iPhone AI", "Apple News", "AI Future"],
+    content: `<section>
 
   <h1>Apple AI Update 2026: Siri ke liye Gemini Deal ke baad Ex-Google Executive Hire</h1>
 
@@ -185,8 +359,8 @@ export const blogs = [
   </p>
 
 </section>`
-},
-  
+  },
+
   {
     slug: "elon-musk-robot-plan-future-jobs-ai-revolution-2026",
     title: "Elon Musk Ka Master Plan: Kya Robots Human Jobs Khatam Kar Denge? Future Ka Sach 2026",
