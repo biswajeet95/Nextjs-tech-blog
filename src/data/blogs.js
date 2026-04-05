@@ -1,5 +1,192 @@
 export const blogs = [
   {
+    slug: "meta-mercor-ai-hack-work-pause-2026",
+    title: "Meta ne AI Startup Mercor ko kyun roka? $10 Billion Company Hack ke baad bada decision",
+    description:
+      "Meta ne AI recruiting startup Mercor ke saath apna kaam hack ke baad pause kar diya. Samajhiye kya hua, kyun yeh decision liya gaya aur iska AI industry aur common users par kya impact padega.",
+    image: "/images/meta-mercor.jpg",
+    copyright: "© 2026 Biswajeet Moharana | Image Source: Pexels",
+    date: "April 5, 2026",
+    tags: ["Meta News", "AI Security", "Tech News 2026", "Artificial Intelligence", "Startup News", "Cybersecurity"],
+    content: `<section>
+
+  <h1>Meta ne AI Startup Mercor ko kyun roka? $10 Billion Company Hack ke baad bada decision</h1>
+
+  <p>
+    Kabhi aisa hota hai na… ek normal si tech news padhte ho aur suddenly realize hota hai ki yeh serious hai?
+  </p>
+
+  <p>
+    Mujhe bhi wahi feel hua jab pata chala ki Meta ne ek AI startup Mercor ke saath apna kaam turant pause kar diya.
+  </p>
+
+  <p>
+    Shock wali baat yeh hai ki Mercor ki valuation $10 billion tak pahunch chuki thi… phir bhi ek hack ne sab kuch hila diya 😳
+  </p>
+
+  <h2>Mercor kya karta tha?</h2>
+
+  <p>
+    Sabse pehle simple language mein samajhte hain ki Mercor ka kaam kya tha.
+  </p>
+
+  <p>
+    Yeh ek AI-based hiring platform tha jo companies ko fast recruitment mein help karta tha.
+  </p>
+
+  <ul>
+    <li>Resume screening automatically</li>
+    <li>Candidate skills ka AI analysis</li>
+    <li>Fast hiring decisions</li>
+  </ul>
+
+  <p>
+    Matlab ek tarah se AI HR ka kaam kar raha tha.
+  </p>
+
+  <h2>Hack ka incident – kya hua?</h2>
+
+  <p>
+    Reports ke according, Mercor ke system mein security breach hua.
+  </p>
+
+  <p>
+    Iska matlab yeh ho sakta hai:
+  </p>
+
+  <ul>
+    <li>User data risk mein aa gaya</li>
+    <li>Internal systems compromise ho sakte the</li>
+    <li>Company ki credibility pe direct impact</li>
+  </ul>
+
+  <p>
+    Aur isi wajah se Meta ne turant decision liya — kaam rok do.
+  </p>
+
+  <h2>Meta ne itna bada step kyun liya?</h2>
+
+  <p>
+    Aap soch rahe honge, ek hack ke liye itna strict decision kyun?
+  </p>
+
+  <h3>🔒 Data security sabse important</h3>
+
+  <p>
+    AI platforms pe sensitive data hota hai jaise resumes, personal info aur company hiring data.
+  </p>
+
+  <p>
+    Agar yeh leak ho jaye toh problem bahut badi ho sakti hai.
+  </p>
+
+  <h3>⚠️ Trust ek baar toot gaya toh mushkil</h3>
+
+  <p>
+    Tech world mein trust hi sab kuch hota hai.
+  </p>
+
+  <p>
+    Ek baar hack ho gaya matlab clients doubt karna start kar dete hain.
+  </p>
+
+  <h3>💼 Meta ka reputation risk</h3>
+
+  <p>
+    Meta already AI race mein aage badhna chahta hai.
+  </p>
+
+  <p>
+    Agar wo insecure platform ke saath continue karta, toh uski image damage ho sakti thi.
+  </p>
+
+  <h2>Real-life example – socho tumhare saath ho</h2>
+
+  <p>
+    Imagine karo tumne kisi job website pe apna resume upload kiya hai.
+  </p>
+
+  <p>
+    Aur ek din pata chale ki wo site hack ho gayi 😨
+  </p>
+
+  <p>
+    Tumhari personal details kisi ke paas bhi ja sakti hain.
+  </p>
+
+  <p>
+    Exactly yahi risk yahan bhi tha.
+  </p>
+
+  <h2>AI industry ke liye iska impact</h2>
+
+  <p>
+    Yeh sirf ek company ka issue nahi hai, pura AI ecosystem affect hoga.
+  </p>
+
+  <ul>
+    <li>Startups ke liye trust banana mushkil hoga</li>
+    <li>Security audits aur strict ho jayenge</li>
+    <li>Investors zyada careful ho jayenge</li>
+  </ul>
+
+  <h2>Future kya bol raha hai?</h2>
+
+  <p>
+    Yeh clear signal hai ki AI powerful hai… lekin risk-free nahi hai.
+  </p>
+
+  <p>
+    Aane wale time mein companies security pe aur zyada focus karengi.
+  </p>
+
+  <p>
+    Governments bhi stricter rules la sakti hain.
+  </p>
+
+  <h2>Common users ke liye kya lesson hai?</h2>
+
+  <p>
+    Hum sab ke liye bhi yeh ek warning hai.
+  </p>
+
+  <ul>
+    <li>Har platform pe blindly trust mat karo</li>
+    <li>Sensitive data share karne se pehle socho</li>
+    <li>Strong passwords use karo</li>
+  </ul>
+
+  <h2>Ek personal thought</h2>
+
+  <p>
+    Sach bolu toh AI ka use karte waqt excitement bhi hota hai aur thoda dar bhi.
+  </p>
+
+  <p>
+    Kyunki jitna powerful tool hota hai, utna hi risky bhi ho sakta hai.
+  </p>
+
+  <p>
+    Isliye balance banana zaroori hai.
+  </p>
+
+  <h2>Soft ending</h2>
+
+  <p>
+    Meta ka yeh decision ek simple business move nahi tha, ek strong message tha.
+  </p>
+
+  <p>
+    Technology fast grow kar rahi hai, lekin security usse bhi fast hona chahiye.
+  </p>
+
+  <p>
+    Shayad ab waqt aa gaya hai sirf AI use karne ka nahi… balki usko samajhne ka bhi.
+  </p>
+
+</section>`
+  },
+  {
     slug: "microsoft-10-billion-ai-push-stock-jump-2026",
     title: "Microsoft ka $10 Billion AI Plan: Kaise Ek Decision ne Stock ko 20% Tak Uda Diya",
     description:
