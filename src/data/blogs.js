@@ -1,5 +1,172 @@
 export const blogs = [
  {
+  "slug": "tech-layoffs-2026-meta-amazon-oracle-list-reasons",
+  "title": "Tech Layoffs 2026: Meta, Amazon, Oracle Jaise Giants Kyun Kar Rahe Hain Job Cuts?",
+  "description": "2026 mein Meta, Amazon, Oracle jaise companies layoffs kar rahi hain. Janiye simple Hinglish mein iska reason kya hai, AI ka impact kya hai aur aap apni job ko kaise secure rakh sakte ho.",
+  "image": "/images/tech-layoffs-2026.jpg",
+  "copyright": "© 2026 Biswajeet Moharana | Image Source: Pexels",
+  "date": "April 9, 2026",
+  "tags": ["Tech Layoffs 2026", "Meta Layoffs", "Amazon Layoffs", "Oracle Jobs", "AI Impact Jobs", "Tech Industry News"],
+  "content": `<section>
+
+  <h1>Tech Layoffs 2026: Meta, Amazon, Oracle Jaise Giants Kyun Kar Rahe Hain Job Cuts?</h1>
+
+  <p>
+    Agar aap tech industry mein ho ya enter karne ka plan bana rahe ho, toh 2026 ka ye phase thoda stressful lag sakta hai.
+  </p>
+
+  <p>
+    LinkedIn kholte hi “Open to Work” badges dikhne lage hain… aur honestly, ye sirf trend nahi hai—ye real logon ki story hai.
+  </p>
+
+  <p>
+    Kisi ka EMI chal raha hai, kisi ne recently job join ki thi, aur kisi ka toh pura career hi uncertain ho gaya hai.
+  </p>
+
+  <h2>📉 2026 Mein Layoffs Karne Wali Top Companies</h2>
+
+  <p>
+    Is saal kai badi tech companies ne apne employees ko layoff kiya hai.
+  </p>
+
+  <ul>
+    <li><strong>Meta</strong> – AI aur metaverse focus ke chalte multiple layoffs</li>
+    <li><strong>Amazon</strong> – HR, Alexa aur cloud teams mein job cuts</li>
+    <li><strong>Oracle</strong> – Departments restructure aur cloud pe focus</li>
+    <li><strong>GoPro</strong> – 20% se zyada workforce reduce</li>
+  </ul>
+
+  <p>
+    Sirf big companies hi nahi, startups bhi iss pressure ko face kar rahe hain.
+  </p>
+
+  <h2>🤔 Layoffs Ka Real Reason Kya Hai?</h2>
+
+  <p>
+    Ye ek single reason nahi hai—multiple factors ka combination hai.
+  </p>
+
+  <h3>🤖 AI Ka Rapid Growth</h3>
+  <p>
+    AI tools aur automation ne kaafi manual kaam replace karna start kar diya hai.
+  </p>
+  <p>
+    Pehle ek kaam ke liye 5 log chahiye hote the, ab 2 log + AI tool kaafi hai.
+  </p>
+
+  <h3>💸 Over Hiring During Covid</h3>
+  <p>
+    Covid ke time companies ne aggressively hiring ki thi.
+  </p>
+  <p>
+    Ab demand normal hone ke baad extra workforce unnecessary lag rahi hai.
+  </p>
+
+  <h3>📊 Cost Cutting & Profit Pressure</h3>
+  <p>
+    Investors ab sirf growth nahi, profit bhi dekh rahe hain.
+  </p>
+  <p>
+    Expenses kam karne ke liye companies layoffs choose kar rahi hain.
+  </p>
+
+  <h3>🌍 Global Economic Uncertainty</h3>
+  <p>
+    Recession fear aur global instability bhi impact kar rahe hain hiring decisions ko.
+  </p>
+
+  <h2>💔 Real Life Impact – Sirf Numbers Nahi Hai</h2>
+
+  <p>
+    Layoffs sunne mein ek statistic lagta hai, lekin reality kaafi different hoti hai.
+  </p>
+
+  <p>
+    Mera ek dost Bangalore mein job karta tha. Ek din suddenly meeting hui aur usko bola gaya—“Your role is no longer required.”
+  </p>
+
+  <ul>
+    <li>3 saal ki job</li>
+    <li>EMI chal raha tha</li>
+    <li>Family depend karti thi</li>
+  </ul>
+
+  <p>
+    Ek email ne sab kuch change kar diya.
+  </p>
+
+  <h2>🔄 Kya Tech Jobs Khatam Ho Rahi Hain?</h2>
+
+  <p>
+    Short answer: Nahi.
+  </p>
+
+  <p>
+    Lekin change zaroor ho raha hai—aur kaafi fast ho raha hai.
+  </p>
+
+  <ul>
+    <li>Traditional roles → AI-based roles</li>
+    <li>Manual work → Automation</li>
+    <li>Basic coding → Smart problem solving</li>
+  </ul>
+
+  <h2>🚀 Kaunsi Skills Demand Mein Hain?</h2>
+
+  <p>
+    Agar aap tech field mein ho, toh ye skills future-proof ho sakti hain:
+  </p>
+
+  <ul>
+    <li>AI & Machine Learning</li>
+    <li>Data Analysis</li>
+    <li>Cloud Computing</li>
+    <li>Cybersecurity</li>
+    <li>Prompt Engineering</li>
+  </ul>
+
+  <p>
+    Saath hi communication aur adaptability jaise soft skills bhi important hain.
+  </p>
+
+  <h2>🛡️ Apni Job Ko Kaise Secure Karein?</h2>
+
+  <p>
+    100% job security ab kisi ke paas nahi hai, lekin risk kam zaroor kiya ja sakta hai.
+  </p>
+
+  <ul>
+    <li>Regular upskilling karo</li>
+    <li>Side income build karo</li>
+    <li>Networking strong rakho</li>
+    <li>Emergency fund maintain karo</li>
+  </ul>
+
+  <h2>💭 Final Thoughts</h2>
+
+  <p>
+    Ye phase thoda tough hai, especially un logon ke liye jo directly affected hain.
+  </p>
+
+  <p>
+    Lekin ek cheez clear hai—change hi permanent hai.
+  </p>
+
+  <p>
+    Agar aap seekhte rahoge, adapt karoge aur khud ko update rakhoge, toh opportunities abhi bhi bahut hain.
+  </p>
+
+  <p>
+    Aur agar aap struggle kar rahe ho, toh yaad rakho—ye permanent nahi hai. Har phase nikal jaata hai.
+  </p>
+
+  <p>
+    Bas rukna mat. Seekhte raho. Aage badhte raho.
+  </p>
+
+</section>`
+},
+  {
   "slug": "apple-foldable-iphone-delay-2026-problems",
   "title": "Apple Foldable iPhone Delay 2026: $2000 Phone Mein Kya Problems Aa Rahi Hain?",
   "description": "Apple ke first foldable iPhone mein screen aur durability issues saamne aaye hain. Janiye simple Hinglish mein kya problem hai, launch delay kyun ho sakta hai aur kya yeh ₹1.5 lakh ka phone worth hoga ya nahi.",
