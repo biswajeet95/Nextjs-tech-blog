@@ -1,5 +1,112 @@
 export const blogs = [
  {
+  "slug": "us-summons-bank-bosses-ai-cyber-risk-mythos",
+  "title": "US Ne Bank CEOs Ko Kyun Bulaya? Powerful AI 'Mythos' Se Cyber Risk Ka Bada Khatra!",
+  "description": "US government ne bank CEOs ko AI cyber risks ke chalte bulaya. Janiye kaise Anthropic ka Mythos AI banking system ke liye threat ban sakta hai aur iska global impact kya ho sakta hai.",
+  "image": "/images/ai-cyber-risk-mythos.jpg",
+  "copyright": "© 2026 Biswajeet Moharana | Image Source: Pexels",
+  "date": "April 13, 2026",
+  "tags": ["AI Cyber Risk", "Anthropic Mythos", "Cybersecurity", "Banking Security", "Tech News 2026", "AI Threat"],
+  "content": `<section>
+
+  <h1>US Ne Bank CEOs Ko Kyun Bulaya? Powerful AI 'Mythos' Se Cyber Risk Ka Bada Khatra!</h1>
+
+  <p>
+    Socho ek aisa AI jo insaan se zyada smart ho hacking mein… thoda scary lag raha hai na?
+  </p>
+
+  <p>
+    Aaj kal hum sab online banking use karte hain — UPI, net banking, credit cards. Lekin recently ek news ne sabko shock kar diya. US government ne top bank CEOs ko urgently bulaya… reason? Ek powerful AI model jo cyber attacks ko next level tak le ja sakta hai.
+  </p>
+
+  <h2>🤖 Mythos AI: Itna powerful ki public ke liye risky?</h2>
+
+  <p>
+    Anthropic naam ki company ne ek AI model develop kiya hai — Mythos. Yeh normal AI chatbot jaisa nahi hai.
+  </p>
+
+  <ul>
+    <li>Complex software bugs detect kar sakta hai</li>
+    <li>Security loopholes instantly find karta hai</li>
+    <li>Systems ko deeply analyze kar sakta hai</li>
+    <li>Human hackers se bhi fast kaam karta hai</li>
+  </ul>
+
+  <h2>⚠️ Problem: Same AI security bhi badha sakta hai… aur tod bhi sakta hai</h2>
+
+  <p>
+    Har technology ke do side hote hain — good aur bad.
+  </p>
+
+  <ul>
+    <li>Fraud detection better ho sakta hai</li>
+    <li>Cyber attacks detect karna easy ho jata hai</li>
+    <li>Hackers misuse kar sakte hain</li>
+    <li>Personal data leak ho sakta hai</li>
+  </ul>
+
+  <h2>🏛️ US Government Ka Emergency Step</h2>
+
+  <p>
+    US officials ne top banks ke CEOs ko bulaya meeting ke liye. Yeh ek warning thi ki AI cyber threats rapidly badh rahe hain.
+  </p>
+
+  <h2>💳 Banking Sector Kyun Sabse Zyada Risk Mein Hai?</h2>
+
+  <p>
+    Banks handle karte hain crores ka transaction aur sensitive data. Agar system hack ho gaya to poora financial system impact ho sakta hai.
+  </p>
+
+  <h2>📱 Real-Life Example</h2>
+
+  <p>
+    Socho aap subah uthte ho aur dekhte ho ki aapka bank account empty hai, UPI kaam nahi kar raha aur koi help nahi mil rahi… yeh future risk ho sakta hai agar AI misuse hua.
+  </p>
+
+  <h2>🌍 Global Impact</h2>
+
+  <p>
+    Aaj ke time pe duniya connected hai. Agar ek country ka banking system affect hota hai, to global markets aur India bhi impact ho sakta hai.
+  </p>
+
+  <h2>🔐 Companies Ab Kya Kar Rahi Hain?</h2>
+
+  <ul>
+    <li>Advanced security systems implement kiye ja rahe hain</li>
+    <li>AI vs AI protection use ho raha hai</li>
+    <li>Powerful AI tools ko control kiya ja raha hai</li>
+  </ul>
+
+  <h2>🇮🇳 India Ke Liye Lesson</h2>
+
+  <p>
+    India fast digital ho raha hai. Isliye strong cybersecurity, AI regulation aur public awareness bahut zaroori hai.
+  </p>
+
+  <h2>💡 Safety Tips</h2>
+
+  <ul>
+    <li>Strong passwords use karo</li>
+    <li>OTP kisi ke saath share mat karo</li>
+    <li>Unknown links par click mat karo</li>
+    <li>Bank alerts ON rakho</li>
+  </ul>
+
+  <h2>❤️ Personal Thought</h2>
+
+  <p>
+    Technology se darna nahi hai, samajhna zaroori hai. AI powerful hai, lekin uska use humare haath mein hai.
+  </p>
+
+  <h2>🌱 Final Thought</h2>
+
+  <p>
+    AI future ko change kar raha hai. Yeh hum par depend karta hai ki hum isse responsibly use karein ya nahi. Sahi use se life easy hogi, galat use se risks badhenge.
+  </p>
+
+</section>`
+},
+  {
   "slug": "google-pixel-11-vs-iphone-18-pro-display-samsung-tech-2026",
   "title": "Google Pixel 11 vs iPhone 18 Pro: Kya Is Baar Display King Badalne Wala Hai? (Samsung Tech Explained)",
   "description": "Google Pixel 11 me Samsung ka next-gen OLED display aa sakta hai jo iPhone 18 Pro ko bhi beat kar sakta hai. Janiye simple Hinglish me display tech, real-life impact aur kaunsa phone better ho sakta hai.",
