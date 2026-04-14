@@ -1,5 +1,154 @@
 export const blogs = [
  {
+  "slug": "bengaluru-drone-expo-2026-live-demos-future-tech",
+  "title": "Bengaluru Drone Expo 2026: Live Demos, Future Tech aur Visitors Ke Liye Kya Special Hai?",
+  "description": "Bengaluru Drone Expo 2026 mein live drone demos, delivery systems, agriculture tech aur AI-powered drones showcase honge. Janiye visitors ke liye kya exciting cheezein expect karne ko mil sakti hain.",
+  "image": "/images/bengaluru-drone-expo-2026.jpg",
+  "copyright": "© 2026 Biswajeet Moharana | Image Source: Pexels",
+  "date": "April 14, 2026",
+  "tags": ["Drone Expo 2026", "Bengaluru Tech Event", "Drone Technology", "Future Tech India", "AI Drones", "Tech News 2026"],
+  "content": `<section>
+
+  <h1>Bengaluru Drone Expo 2026: Live Demos, Future Tech aur Visitors Ke Liye Kya Special Hai?</h1>
+
+  <p>
+    Agar aapko technology pasand hai ya future ko apni aankhon se dekhna chahte ho, toh Bengaluru Drone Expo 2026 aapke liye ek amazing experience ho sakta hai.
+  </p>
+
+  <p>
+    Honestly bolu toh hum sabne drones ko sirf camera ya wedding shoots mein dekha hai. Lekin reality mein drones ka scope usse kahin zyada bada hai… aur yahi cheez iss expo mein clearly samajh aati hai.
+  </p>
+
+  <h2>📍 Expo Kahan Ho Raha Hai?</h2>
+
+  <p>
+    Yeh event Bengaluru mein ho raha hai — jo India ka tech hub mana jata hai. Yahan startups, innovation aur new technology ka environment already strong hai.
+  </p>
+
+  <h2>🚁 Drone Expo Mein Kya Special Hai?</h2>
+
+  <p>
+    Yeh koi normal exhibition nahi hai jahan sirf products display hote hain. Yahaan aapko live demos aur real-world use cases dekhne ko milte hain.
+  </p>
+
+  <h3>✨ Live Drone Demonstrations</h3>
+
+  <ul>
+    <li>Real-time drone flying experience</li>
+    <li>Obstacle avoidance technology</li>
+    <li>High-speed racing drones</li>
+    <li>Delivery drone simulations</li>
+  </ul>
+
+  <p>
+    Socho ek drone automatically parcel deliver kar raha hai ya farmland ke upar fly karke crop analysis kar raha hai… yeh sab aap live dekh sakte ho.
+  </p>
+
+  <h2>🌾 Agriculture Mein Drone Ka Role</h2>
+
+  <p>
+    India jaise country mein agriculture bahut important hai. Drones farmers ke kaam ko easy bana rahe hain.
+  </p>
+
+  <ul>
+    <li>Crop monitoring aur health check</li>
+    <li>Pesticide spraying fast aur efficient</li>
+    <li>Better irrigation planning</li>
+  </ul>
+
+  <p>
+    Ek example mein dekha gaya ki drone use karke 5 din ka kaam sirf 1 din mein complete ho gaya. Yeh real impact hai.
+  </p>
+
+  <h2>📦 Delivery & Logistics – Future Ready System</h2>
+
+  <p>
+    Aaj hum online shopping ke aadhi ho chuke hain. Lekin future mein delivery boy ki jagah drone aapka parcel deliver karega.
+  </p>
+
+  <ul>
+    <li>Last-mile delivery drones</li>
+    <li>Medical emergency delivery</li>
+    <li>Traffic-free logistics</li>
+  </ul>
+
+  <h2>🏙️ Smart Cities Aur Surveillance</h2>
+
+  <p>
+    Drone technology cities ko smarter aur safer bana rahi hai.
+  </p>
+
+  <ul>
+    <li>Traffic monitoring</li>
+    <li>Crowd control</li>
+    <li>Disaster management</li>
+    <li>Security surveillance</li>
+  </ul>
+
+  <p>
+    Natural disaster ke time drones aerial view dekar rescue teams ko help karte hain.
+  </p>
+
+  <h2>🎮 Tech Lovers Ke Liye Exciting Experience</h2>
+
+  <p>
+    Agar aap tech lover ho, toh yeh expo aapko next level excitement dega.
+  </p>
+
+  <ul>
+    <li>AI-powered drones</li>
+    <li>Autonomous navigation</li>
+    <li>Drone racing</li>
+    <li>VR integration</li>
+  </ul>
+
+  <h2>👨‍💻 Students Aur Startups Ke Liye Opportunity</h2>
+
+  <p>
+    Students aur startups ke liye yeh ek golden chance hai learn aur grow karne ka.
+  </p>
+
+  <ul>
+    <li>Industry experts se interaction</li>
+    <li>Networking opportunities</li>
+    <li>New ideas aur inspiration</li>
+    <li>Career scope in drone tech</li>
+  </ul>
+
+  <h2>❤️ Personal Experience Feel</h2>
+
+  <p>
+    Aise events sirf knowledge nahi dete… yeh aapko future feel karwate hain. Jab aap ek drone ko intelligent decisions lete hue dekhte ho, tab realize hota hai ki technology kitni fast grow kar rahi hai.
+  </p>
+
+  <p>
+    Yeh woh future hai jo humne bachpan mein sirf movies mein dekha tha.
+  </p>
+
+  <h2>📝 Visitors Ke Liye Tips</h2>
+
+  <ul>
+    <li>Comfortable clothes pehno</li>
+    <li>Early pahunchne ki koshish karo</li>
+    <li>Photos aur notes lo</li>
+    <li>Experts se questions pucho</li>
+  </ul>
+
+  <h2>🌱 Final Thought</h2>
+
+  <p>
+    Bengaluru Drone Expo 2026 sirf ek event nahi hai… yeh future ka trailer hai. Chahe aap student ho, tech lover ho ya curious visitor, yeh experience aapko kuch naya zaroor sikha ke jaayega.
+  </p>
+
+  <p>
+    Future already yahan hai… bas hume usse explore karna start karna hai. 
+    Drone ajke samay par ek game changer ban gaya hai, aur yeh expo best sowcase hai.
+  </p>
+
+</section>`
+},
+ 
+  {
   "slug": "us-summons-bank-bosses-ai-cyber-risk-mythos",
   "title": "US Ne Bank CEOs Ko Kyun Bulaya? Powerful AI 'Mythos' Se Cyber Risk Ka Bada Khatra!",
   "description": "US government ne bank CEOs ko AI cyber risks ke chalte bulaya. Janiye kaise Anthropic ka Mythos AI banking system ke liye threat ban sakta hai aur iska global impact kya ho sakta hai.",
