@@ -399,7 +399,9 @@ export const blogs = [
   <h2>🌱 Final Thought</h2>
 
   <p>
-    AI future ko change kar raha hai. Yeh hum par depend karta hai ki hum isse responsibly use karein ya nahi. Sahi use se life easy hogi, galat use se risks badhenge.
+    AI future ko change kar raha hai. Yeh hum par depend karta hai ki hum isse responsibly use karein ya nahi.
+    Sahi use se life easy hogi, galat use se risks badhenge. Isliye awareness aur education sabse important hai.
+    abke samay main cheezein rapidly change ho rahi hain, toh hume bhi ready rehna chahiye. kyuki future clearly AI-driven hone wala hai.
   </p>
 
 </section>`
@@ -586,7 +588,9 @@ export const blogs = [
   </p>
 
   <p>
-  Kyuki phone sirf ek device nahi hai… yeh aaj ke time me humari daily life ka hissa ban chuka hai. Kyuki phone sirf phone nehni hai bo humare liye ek chota sa computer hi hain jahna hum bahat kuch kaam kahni par bhi kar sakte hain. Technology humesha hum insaano ko madat karta hai isse sehi istimal kare to sabb thik chalta hai.
+  Kyuki phone sirf ek device nahi hai… yeh aaj ke time me humari daily life ka hissa ban chuka hai. 
+  Kyuki phone sirf phone nehni hai bo humare liye ek chota sa computer hi hain jahna hum bahat kuch kaam kahni par bhi kar sakte hain. 
+  Technology humesha hum insaano ko madat karta hai isse sehi istimal kare to sabb thik chalta hai. yaad rahe ki technology ka use humare haath main hai, isliye hume ise responsibly use karna chahiye.
   </p>
 
 </section>`
@@ -788,7 +792,7 @@ export const blogs = [
   </p>
 
   <p>
-    Bas zaroorat hai smart rehne ki, seekhne ki, aur future ke liye ready rehne ki.
+    Bas zaroorat hai smart rehne ki, seekhne ki, aur future ke liye ready rehne ki. kyunki AI ka future humare haath mein hai.. 
   </p>
 
 </section>`
@@ -995,7 +999,9 @@ export const blogs = [
   </p>
 
   <p>
-    End mein decision simple hai—comfort vs budget. Jo aapke liye sahi lage, wahi best hai.
+    End mein decision simple hai—comfort vs budget. Jo aapke liye sahi lage, wahi best hai. 
+    Jo bhi AC aap choose karo, ensure karo ki woh energy efficient ho aur apke need ko suit karta ho.
+     kyuki AC sirf ek machine nahi hai, yeh aapke ghar ka ek important part ban jata hai.
   </p>
 
 </section>`
@@ -1163,7 +1169,8 @@ export const blogs = [
   </p>
 
   <p>
-    Bas rukna mat. Seekhte raho. Aage badhte raho.
+    Bas rukna mat. Seekhte raho. Aage badhte raho. Job loss ek setback ho sakta hai,
+    lekin usse comeback karna aapke haath mein hai. Kyuki aaj ke time mein skills aur mindset hi aapko future-proof bana sakte hain.
   </p>
 
 </section>`
