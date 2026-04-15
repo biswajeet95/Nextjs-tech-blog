@@ -1,5 +1,154 @@
 export const blogs = [
  {
+  "slug": "5-things-to-know-before-stock-market-opens-india",
+  "title": "5 Things to Know Before the Stock Market Opens (Har Trader Ke Liye Must Know Guide)",
+  "description": "Stock market open hone se pehle kin 5 important cheezon ko check karna chahiye? Janiye simple Hinglish mein global market trends, news, pre-market data aur smart trading planning ke baare mein.",
+  "image": "/images/stock-market-before-open.jpg",
+  "copyright": "© 2026 Biswajeet Moharana | Image Source: Pexels",
+  "date": "April 15, 2026",
+  "tags": ["Stock Market India", "Trading Tips", "Beginner Trading Guide", "Share Market Basics", "Intraday Trading", "Stock Market News"],
+  "content": `<section>
+
+  <h1>5 Things to Know Before the Stock Market Opens (Har Trader Ke Liye Must Know Guide)</h1>
+
+  <p>
+    Subah ka time… chai ka cup haath mein aur dimag mein ek hi sawal — “Aaj market upar jayega ya neeche?”
+  </p>
+
+  <p>
+    Agar aap bhi stock market mein trading ya investing karte ho, toh aap samajh sakte ho ki market open hone se pehle ka time kitna important hota hai.
+  </p>
+
+  <p>
+    Maine bhi starting mein bina soche-samjhe trades liye hain… aur honestly kaafi loss bhi hua 😅 Lekin dheere dheere samajh aaya ki thodi si preparation aapko bade loss se bacha sakti hai.
+  </p>
+
+  <h2>🔍 1. Global Market Ka Mood Samjho</h2>
+
+  <p>
+    Indian stock market kabhi bhi isolated nahi hota. Yeh global markets se kaafi influence hota hai.
+  </p>
+
+  <ul>
+    <li>US Market (Dow Jones, Nasdaq)</li>
+    <li>Asian Markets (Nikkei, Hang Seng)</li>
+    <li>SGX Nifty (early signal deta hai)</li>
+  </ul>
+
+  <p>
+    Example ke liye, agar US market kal raat ko gir gaya hai, toh high chances hain ki India mein bhi negative opening ho.
+  </p>
+
+  <p>
+    Maine khud kai baar global trend ignore kiya aur ulta trade le liya… aur result aap samajh hi sakte ho 😅
+  </p>
+
+  <h2>📢 2. Aaj Ke Important News Aur Events Check Karo</h2>
+
+  <p>
+    Stock market news pe bahut fast react karta hai. Agar aap news ignore karte ho, toh wo blind trading jaisa ho jata hai.
+  </p>
+
+  <ul>
+    <li>RBI announcements</li>
+    <li>Government policies</li>
+    <li>Inflation data</li>
+    <li>Company earnings</li>
+    <li>Major global news</li>
+  </ul>
+
+  <p>
+    Ek baar maine bank stock buy kiya tha bina news dekhe… baad mein pata chala RBI policy change ho gayi hai. Stock seedha neeche!
+  </p>
+
+  <h2>📊 3. Pre-Market Data Ko Ignore Mat Karo</h2>
+
+  <p>
+    9:00 AM se 9:15 AM tak ka pre-market session bahut important hota hai. Yeh aapko early indication deta hai ki market ka mood kya hai.
+  </p>
+
+  <ul>
+    <li>Top gainers & losers</li>
+    <li>Volume activity</li>
+    <li>Gap up / Gap down stocks</li>
+  </ul>
+
+  <p>
+    Gap up ka matlab bullish sentiment aur gap down ka matlab bearish sentiment hota hai. Lekin blindly follow karna sahi nahi hai — confirmation zaroor lena chahiye.
+  </p>
+
+  <h2>📈 4. Support Aur Resistance Levels Samjho</h2>
+
+  <p>
+    Market random nahi chalta. Yeh specific levels follow karta hai jise hum support aur resistance bolte hain.
+  </p>
+
+  <ul>
+    <li>Previous day high & low</li>
+    <li>Key support zones</li>
+    <li>Resistance levels</li>
+  </ul>
+
+  <p>
+    Ek baar main high price pe stock buy karne wala tha, lekin resistance check kiya aur entry avoid kar di. Thodi der baad stock wahi se reverse ho gaya — loss bach gaya!
+  </p>
+
+  <h2>💰 5. Apna Trading Plan Clear Rakho</h2>
+
+  <p>
+    Sabse badi mistake hoti hai bina plan ke trade lena. Market open hote hi excitement badh jata hai aur log jaldi decision le lete hain.
+  </p>
+
+  <ul>
+    <li>Entry point define karo</li>
+    <li>Stop loss set karo</li>
+    <li>Target price decide karo</li>
+    <li>Risk kitna lena hai wo clear rakho</li>
+  </ul>
+
+  <p>
+    Golden rule simple hai — trade lene se pehle decide karo ki kitna loss tolerate kar sakte ho.
+  </p>
+
+  <h2>⚡ Bonus Tip: Emotions Control Karo</h2>
+
+  <p>
+    Stock market sirf numbers ka game nahi hai, yeh emotions ka game bhi hai.
+  </p>
+
+  <ul>
+    <li>Fear (dar)</li>
+    <li>Greed (lalach)</li>
+    <li>Overconfidence</li>
+  </ul>
+
+  <p>
+    Kai baar profit hone ke baad bhi greed ke chakkar mein log exit nahi karte… aur end mein profit bhi loss ban jata hai.
+  </p>
+
+  <h2>🧠 Final Thought</h2>
+
+  <p>
+    Stock market mein success luck se nahi, discipline aur preparation se aata hai.
+  </p>
+
+  <p>
+    Agar aap roz sirf 15–20 minute market open hone se pehle in cheezon ko check karte ho, toh aapka decision-making kaafi strong ho jayega.
+  </p>
+
+  <p>
+    Market hamesha mauka deta hai… bas aap ready hone chahiye.
+  </p>
+
+  <p>
+    Kal se jaldi trade lene ki jagah thoda rukkar smart decision lena start karo — 
+    difference khud dekhoge. Pehle apne aap ko prepare karo phir market ko face karo. Happy trading!
+  </p>
+
+</section>`
+},
+ 
+  {
   "slug": "bengaluru-drone-expo-2026-live-demos-future-tech",
   "title": "Bengaluru Drone Expo 2026: Live Demos, Future Tech aur Visitors Ke Liye Kya Special Hai?",
   "description": "Bengaluru Drone Expo 2026 mein live drone demos, delivery systems, agriculture tech aur AI-powered drones showcase honge. Janiye visitors ke liye kya exciting cheezein expect karne ko mil sakti hain.",
