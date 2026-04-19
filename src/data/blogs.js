@@ -1,13 +1,191 @@
 export const blogs = [
   {
-  "slug": "windows-11-insider-april-2026-biggest-changes",
-  "title": "Windows 11 Insider April 2026: Yeh 7 Bade Changes Future Ko Kaise Change Kar Rahe Hain?",
-  "description": "Windows 11 ke April 2026 Insider updates mein naye features jaise haptic feedback, Xbox mode, AI integration aur better performance dekhne ko mil raha hai. Simple Hinglish mein samajhiye yeh changes aapke daily use ko kaise impact karenge.",
-  "image": "/images/windows-11-update.jpg",
-  "copyright": "© 2026 Biswajeet Moharana | Image Source: Pexels",
-  "date": "April 18, 2026",
-  "tags": ["Windows 11", "Microsoft Updates", "Tech News 2026", "Windows Insider", "AI Technology", "PC Updates"],
-  "content": `<section>
+    "slug": "apple-iphone-18-pro-design-display-colours-launch-timeline",
+    "title": "Apple iPhone 18 Pro: Design, Display, Colours aur Launch Timeline – Kya Yeh Upgrade Worth Hoga?",
+    "description": "iPhone 18 Pro ke expected design changes, display upgrades, colour options aur launch timeline ko simple Hinglish mein samjhiye. Yeh blog aapko help karega decide karne mein ki upgrade karna chahiye ya wait karna better hai.",
+    "image": "/images/iphone-18-pro.jpg",
+    "copyright": "© 2026 Biswajeet Moharana | Image Source: Pexels",
+    "date": "April 19, 2026",
+    "tags": ["iPhone 18 Pro", "Apple News", "Tech News 2026", "Smartphone Launch", "iPhone Leaks", "Apple Updates"],
+    "content": `<section>
+
+  <h1>Apple iPhone 18 Pro: Design, Display, Colours aur Launch Timeline – Kya Yeh Upgrade Worth Hoga?</h1>
+
+  <p>
+    Sach bolo… har saal jab bhi naya iPhone launch hota hai, hum sab ke dimaag me ek hi sawaal aata hai — “Is baar kya naya hai?”
+  </p>
+
+  <p>
+    Agar aap bhi meri tarah har leak aur rumor check karte ho, toh iPhone 18 Pro definitely aapke radar pe hoga. Excitement ke saath thoda doubt bhi hota hai — worth hai ya sirf hype?
+  </p>
+
+  <p>
+    Chalo simple Hinglish mein samajhte hain ki is baar kya expect kiya ja sakta hai.
+  </p>
+
+  <h2>🧊 Design: Kya Finally Big Change Milega?</h2>
+
+  <p>
+    Last kuch saalon se iPhone ka design kaafi similar raha hai. Lekin is baar thoda bold change dekhne ko mil sakta hai.
+  </p>
+
+  <ul>
+    <li>Slimmer aur premium body</li>
+    <li>Under-display Face ID (notch ya island kam ho sakta hai)</li>
+    <li>Refined titanium frame</li>
+    <li>Ultra-thin bezels</li>
+  </ul>
+
+  <p>
+    Pehle Dynamic Island bhi ajeeb laga tha, lekin baad mein sabko pasand aa gaya. Shayad yeh change bhi waise hi ho.
+  </p>
+
+  <h2>📺 Display: Ab Aur Kitna Better?</h2>
+
+  <p>
+    Apple already display quality ke liye jaana jata hai, lekin competition bhi strong ho raha hai.
+  </p>
+
+  <ul>
+    <li>6.3-inch / 6.9-inch LTPO OLED display</li>
+    <li>120Hz ProMotion refresh rate</li>
+    <li>Higher brightness for outdoor use</li>
+    <li>Better battery efficiency</li>
+  </ul>
+
+  <p>
+    Real life mein jab aap dhoop mein phone use karte ho aur screen clearly dikhti hai — tab hi samajh aata hai ki yeh upgrade kitna important hai.
+  </p>
+
+  <h2>🎨 Colour Options: Safe ya Experimental?</h2>
+
+  <p>
+    Apple usually classic colours ke saath ek do naye shades introduce karta hai.
+  </p>
+
+  <ul>
+    <li>Black</li>
+    <li>Silver</li>
+    <li>Gold</li>
+    <li>Deep Blue Titanium</li>
+    <li>Matte Green</li>
+  </ul>
+
+  <p>
+    Colour sirf look nahi hota — personality reflect karta hai. Lekin end mein kaafi log safe option hi choose karte hain 😄
+  </p>
+
+  <h2>🚀 Performance: Smooth Experience Expected</h2>
+
+  <p>
+    Expected hai ki iPhone 18 Pro mein naya A-series chip aayega jo performance aur battery dono improve karega.
+  </p>
+
+  <ul>
+    <li>Faster speed</li>
+    <li>Better multitasking</li>
+    <li>Improved AI features</li>
+  </ul>
+
+  <p>
+    Simple baat — phone lag nahi kare aur smooth chale, bas wahi important hai.
+  </p>
+
+  <h2>📸 Camera: Kya Aur Powerful Banega?</h2>
+
+  <p>
+    Camera iPhone ka biggest highlight raha hai aur is baar bhi upgrades expected hain.
+  </p>
+
+  <ul>
+    <li>Better low-light photography</li>
+    <li>Improved zoom</li>
+    <li>AI image processing</li>
+    <li>Enhanced video stabilization</li>
+  </ul>
+
+  <p>
+    Aaj kal har koi content create karta hai — reels, videos, photos. Strong camera ka matlab hai better memories capture karna.
+  </p>
+
+  <h2>📅 Launch Timeline: Kab Tak Aayega?</h2>
+
+  <p>
+    Apple ka launch pattern kaafi consistent hota hai.
+  </p>
+
+  <ul>
+    <li>Announcement: September 2026</li>
+    <li>Pre-orders: Same week</li>
+    <li>Sale: 1–2 weeks baad</li>
+  </ul>
+
+  <p>
+    Har saal September Apple fans ke liye ek festival jaisa hota hai.
+  </p>
+
+  <h2>💸 Price Expectation: Reality Check</h2>
+
+  <p>
+    Expected price India mein kaafi premium range mein ho sakta hai.
+  </p>
+
+  <ul>
+    <li>₹1,30,000 – ₹1,50,000 (approx)</li>
+  </ul>
+
+  <p>
+    Kuch log EMI pe lete hain, kuch exchange karte hain aur kuch bas dekh ke enjoy karte hain 😄
+  </p>
+
+  <h2>🤔 Kya Upgrade Karna Chahiye?</h2>
+
+  <p>
+    Yeh depend karta hai aapke current phone pe.
+  </p>
+
+  <ul>
+    <li>Old phone hai → upgrade worth ho sakta hai</li>
+    <li>Latest iPhone hai → wait better option hai</li>
+    <li>Budget tight hai → skip karna smart move hai</li>
+  </ul>
+
+  <p>
+    Har naya iPhone lena zaroori nahi hota.
+  </p>
+
+  <h2>🌱 Final Thought</h2>
+
+  <p>
+    iPhone 18 Pro exciting lag raha hai, especially design aur display changes ki wajah se.
+  </p>
+
+  <p>
+    Lekin real life mein decision hype pe nahi, need pe lena chahiye.
+  </p>
+
+  <p>
+    Kabhi kabhi hum sirf isliye upgrade karte hain kyunki naya model aa gaya — lekin zarurat nahi hoti.
+  </p>
+
+  <p>
+    Bas ek simple rule follow karo — agar aapka current phone aapko problem de raha hai, tab upgrade karo. 
+    Warna wait karna bhi ek smart decision hai. kyunki technology fast evolve ho rahi hai, aur jo aapki life easy bana de, wahi best hota hai!
+  </p>
+
+  </section>`
+  },
+
+
+  {
+    "slug": "windows-11-insider-april-2026-biggest-changes",
+    "title": "Windows 11 Insider April 2026: Yeh 7 Bade Changes Future Ko Kaise Change Kar Rahe Hain?",
+    "description": "Windows 11 ke April 2026 Insider updates mein naye features jaise haptic feedback, Xbox mode, AI integration aur better performance dekhne ko mil raha hai. Simple Hinglish mein samajhiye yeh changes aapke daily use ko kaise impact karenge.",
+    "image": "/images/windows-11-update.jpg",
+    "copyright": "© 2026 Biswajeet Moharana | Image Source: Pexels",
+    "date": "April 18, 2026",
+    "tags": ["Windows 11", "Microsoft Updates", "Tech News 2026", "Windows Insider", "AI Technology", "PC Updates"],
+    "content": `<section>
 
   <h1>Windows 11 Insider April 2026: Yeh 7 Bade Changes Future Ko Kaise Change Kar Rahe Hain?</h1>
 
@@ -153,16 +331,16 @@ export const blogs = [
   </p>
 
   </section>`
-},
- {
-  "slug": "oneplus-pad-4-india-launch-features-specs",
-  "title": "OnePlus Pad 4 India Launch (30 April): Snapdragon 8 Gen 5, 13380mAh Battery Aur Kya Yeh Worth Hai?",
-  "description": "OnePlus Pad 4 India mein 30 April ko launch ho raha hai. Janiye iske Snapdragon 8 Gen 5 processor, huge battery, expected price aur real-life use ke hisaab se kya yeh tablet aapke liye best option ho sakta hai.",
-  "image": "/images/oneplus-pad-4.jpg",
-  "copyright": "© 2026 Biswajeet Moharana | Image Source: Pexels",
-  "date": "April 17, 2026",
-  "tags": ["OnePlus Pad 4", "Tablet Launch 2026", "OnePlus India", "Snapdragon 8 Gen 5", "Tech News", "Gadgets"],
-  "content": `<section>
+  },
+  {
+    "slug": "oneplus-pad-4-india-launch-features-specs",
+    "title": "OnePlus Pad 4 India Launch (30 April): Snapdragon 8 Gen 5, 13380mAh Battery Aur Kya Yeh Worth Hai?",
+    "description": "OnePlus Pad 4 India mein 30 April ko launch ho raha hai. Janiye iske Snapdragon 8 Gen 5 processor, huge battery, expected price aur real-life use ke hisaab se kya yeh tablet aapke liye best option ho sakta hai.",
+    "image": "/images/oneplus-pad-4.jpg",
+    "copyright": "© 2026 Biswajeet Moharana | Image Source: Pexels",
+    "date": "April 17, 2026",
+    "tags": ["OnePlus Pad 4", "Tablet Launch 2026", "OnePlus India", "Snapdragon 8 Gen 5", "Tech News", "Gadgets"],
+    "content": `<section>
 
   <h1>OnePlus Pad 4 India Launch (30 April): Snapdragon 8 Gen 5, 13380mAh Battery Aur Kya Yeh Worth Hai?</h1>
 
@@ -358,17 +536,17 @@ export const blogs = [
   </p>
 
   </section>`
-},
- 
+  },
+
   {
-  "slug": "top-tech-conferences-april-2026-guide",
-  "title": "Top Tech Conferences April 2026: Har Tech Lover Ke Liye Ultimate Guide",
-  "description": "April 2026 ke top tech conferences ka complete guide simple Hinglish mein. Janiye kaunse events attend karne chahiye, kya seekhne ko milega aur kaise ye aapki tech journey ko boost kar sakte hain.",
-  "image": "/images/tech-conferences-april-2026.jpg",
-  "copyright": "© 2026 Biswajeet Moharana | Image Source: Pexels",
-  "date": "April 16, 2026",
-  "tags": ["Tech Conferences 2026", "AI Events", "Developer Conferences", "Cloud Computing", "Tech Trends", "Career Growth"],
-  "content": `<section>
+    "slug": "top-tech-conferences-april-2026-guide",
+    "title": "Top Tech Conferences April 2026: Har Tech Lover Ke Liye Ultimate Guide",
+    "description": "April 2026 ke top tech conferences ka complete guide simple Hinglish mein. Janiye kaunse events attend karne chahiye, kya seekhne ko milega aur kaise ye aapki tech journey ko boost kar sakte hain.",
+    "image": "/images/tech-conferences-april-2026.jpg",
+    "copyright": "© 2026 Biswajeet Moharana | Image Source: Pexels",
+    "date": "April 16, 2026",
+    "tags": ["Tech Conferences 2026", "AI Events", "Developer Conferences", "Cloud Computing", "Tech Trends", "Career Growth"],
+    "content": `<section>
 
   <h1>Top Tech Conferences April 2026: Har Tech Lover Ke Liye Ultimate Guide</h1>
 
@@ -563,17 +741,17 @@ export const blogs = [
   </p>
 
 </section>`
-},
- 
+  },
+
   {
-  "slug": "5-things-to-know-before-stock-market-opens-india",
-  "title": "5 Things to Know Before the Stock Market Opens (Har Trader Ke Liye Must Know Guide)",
-  "description": "Stock market open hone se pehle kin 5 important cheezon ko check karna chahiye? Janiye simple Hinglish mein global market trends, news, pre-market data aur smart trading planning ke baare mein.",
-  "image": "/images/stock-market-before-open.jpg",
-  "copyright": "© 2026 Biswajeet Moharana | Image Source: Pexels",
-  "date": "April 15, 2026",
-  "tags": ["Stock Market India", "Trading Tips", "Beginner Trading Guide", "Share Market Basics", "Intraday Trading", "Stock Market News"],
-  "content": `<section>
+    "slug": "5-things-to-know-before-stock-market-opens-india",
+    "title": "5 Things to Know Before the Stock Market Opens (Har Trader Ke Liye Must Know Guide)",
+    "description": "Stock market open hone se pehle kin 5 important cheezon ko check karna chahiye? Janiye simple Hinglish mein global market trends, news, pre-market data aur smart trading planning ke baare mein.",
+    "image": "/images/stock-market-before-open.jpg",
+    "copyright": "© 2026 Biswajeet Moharana | Image Source: Pexels",
+    "date": "April 15, 2026",
+    "tags": ["Stock Market India", "Trading Tips", "Beginner Trading Guide", "Share Market Basics", "Intraday Trading", "Stock Market News"],
+    "content": `<section>
 
   <h1>5 Things to Know Before the Stock Market Opens (Har Trader Ke Liye Must Know Guide)</h1>
 
@@ -712,17 +890,17 @@ export const blogs = [
   </p>
 
 </section>`
-},
- 
+  },
+
   {
-  "slug": "bengaluru-drone-expo-2026-live-demos-future-tech",
-  "title": "Bengaluru Drone Expo 2026: Live Demos, Future Tech aur Visitors Ke Liye Kya Special Hai?",
-  "description": "Bengaluru Drone Expo 2026 mein live drone demos, delivery systems, agriculture tech aur AI-powered drones showcase honge. Janiye visitors ke liye kya exciting cheezein expect karne ko mil sakti hain.",
-  "image": "/images/bengaluru-drone-expo-2026.jpg",
-  "copyright": "© 2026 Biswajeet Moharana | Image Source: Pexels",
-  "date": "April 14, 2026",
-  "tags": ["Drone Expo 2026", "Bengaluru Tech Event", "Drone Technology", "Future Tech India", "AI Drones", "Tech News 2026"],
-  "content": `<section>
+    "slug": "bengaluru-drone-expo-2026-live-demos-future-tech",
+    "title": "Bengaluru Drone Expo 2026: Live Demos, Future Tech aur Visitors Ke Liye Kya Special Hai?",
+    "description": "Bengaluru Drone Expo 2026 mein live drone demos, delivery systems, agriculture tech aur AI-powered drones showcase honge. Janiye visitors ke liye kya exciting cheezein expect karne ko mil sakti hain.",
+    "image": "/images/bengaluru-drone-expo-2026.jpg",
+    "copyright": "© 2026 Biswajeet Moharana | Image Source: Pexels",
+    "date": "April 14, 2026",
+    "tags": ["Drone Expo 2026", "Bengaluru Tech Event", "Drone Technology", "Future Tech India", "AI Drones", "Tech News 2026"],
+    "content": `<section>
 
   <h1>Bengaluru Drone Expo 2026: Live Demos, Future Tech aur Visitors Ke Liye Kya Special Hai?</h1>
 
@@ -861,17 +1039,17 @@ export const blogs = [
   </p>
 
 </section>`
-},
- 
+  },
+
   {
-  "slug": "us-summons-bank-bosses-ai-cyber-risk-mythos",
-  "title": "US Ne Bank CEOs Ko Kyun Bulaya? Powerful AI 'Mythos' Se Cyber Risk Ka Bada Khatra!",
-  "description": "US government ne bank CEOs ko AI cyber risks ke chalte bulaya. Janiye kaise Anthropic ka Mythos AI banking system ke liye threat ban sakta hai aur iska global impact kya ho sakta hai.",
-  "image": "/images/ai-cyber-risk-mythos.jpg",
-  "copyright": "© 2026 Biswajeet Moharana | Image Source: Pexels",
-  "date": "April 13, 2026",
-  "tags": ["AI Cyber Risk", "Anthropic Mythos", "Cybersecurity", "Banking Security", "Tech News 2026", "AI Threat"],
-  "content": `<section>
+    "slug": "us-summons-bank-bosses-ai-cyber-risk-mythos",
+    "title": "US Ne Bank CEOs Ko Kyun Bulaya? Powerful AI 'Mythos' Se Cyber Risk Ka Bada Khatra!",
+    "description": "US government ne bank CEOs ko AI cyber risks ke chalte bulaya. Janiye kaise Anthropic ka Mythos AI banking system ke liye threat ban sakta hai aur iska global impact kya ho sakta hai.",
+    "image": "/images/ai-cyber-risk-mythos.jpg",
+    "copyright": "© 2026 Biswajeet Moharana | Image Source: Pexels",
+    "date": "April 13, 2026",
+    "tags": ["AI Cyber Risk", "Anthropic Mythos", "Cybersecurity", "Banking Security", "Tech News 2026", "AI Threat"],
+    "content": `<section>
 
   <h1>US Ne Bank CEOs Ko Kyun Bulaya? Powerful AI 'Mythos' Se Cyber Risk Ka Bada Khatra!</h1>
 
@@ -971,16 +1149,16 @@ export const blogs = [
   </p>
 
 </section>`
-},
+  },
   {
-  "slug": "google-pixel-11-vs-iphone-18-pro-display-samsung-tech-2026",
-  "title": "Google Pixel 11 vs iPhone 18 Pro: Kya Is Baar Display King Badalne Wala Hai? (Samsung Tech Explained)",
-  "description": "Google Pixel 11 me Samsung ka next-gen OLED display aa sakta hai jo iPhone 18 Pro ko bhi beat kar sakta hai. Janiye simple Hinglish me display tech, real-life impact aur kaunsa phone better ho sakta hai.",
-  "image": "/images/pixel11-vs-iphone18-display.jpg",
-  "copyright": "© 2026 Biswajeet Moharana | Image Source: Pexels",
-  "date": "April 12, 2026",
-  "tags": ["Google Pixel 11", "iPhone 18 Pro", "Samsung Display", "OLED Technology", "Smartphone Comparison", "Tech News 2026"],
-  "content": `<section>
+    "slug": "google-pixel-11-vs-iphone-18-pro-display-samsung-tech-2026",
+    "title": "Google Pixel 11 vs iPhone 18 Pro: Kya Is Baar Display King Badalne Wala Hai? (Samsung Tech Explained)",
+    "description": "Google Pixel 11 me Samsung ka next-gen OLED display aa sakta hai jo iPhone 18 Pro ko bhi beat kar sakta hai. Janiye simple Hinglish me display tech, real-life impact aur kaunsa phone better ho sakta hai.",
+    "image": "/images/pixel11-vs-iphone18-display.jpg",
+    "copyright": "© 2026 Biswajeet Moharana | Image Source: Pexels",
+    "date": "April 12, 2026",
+    "tags": ["Google Pixel 11", "iPhone 18 Pro", "Samsung Display", "OLED Technology", "Smartphone Comparison", "Tech News 2026"],
+    "content": `<section>
 
   <h1>Google Pixel 11 vs iPhone 18 Pro: Kya Is Baar Display King Badalne Wala Hai?</h1>
 
@@ -1160,15 +1338,15 @@ export const blogs = [
   </p>
 
 </section>`
-},{
-  "slug": "white-house-ai-threats-powerful-tools-regulation-2026",
-  "title": "White House AI Alert: Powerful AI Tools Se Danger Ya Future Opportunity? Samajhiye Simple Hinglish Mein",
-  "description": "White House powerful AI tools ke threats ko control karne ke liye action le raha hai. Janiye simple Hinglish mein AI risks, real-life impact, cybersecurity concerns aur future kya hone wala hai.",
-  "image": "/images/white-house-ai-alert.jpg",
-  "copyright": "© 2026 Biswajeet Moharana | Image Source: Pexels",
-  "date": "April 11, 2026",
-  "tags": ["AI News 2026", "White House AI", "AI Risks", "Cybersecurity AI", "Future of AI", "Tech News"],
-  "content": `<section>
+  }, {
+    "slug": "white-house-ai-threats-powerful-tools-regulation-2026",
+    "title": "White House AI Alert: Powerful AI Tools Se Danger Ya Future Opportunity? Samajhiye Simple Hinglish Mein",
+    "description": "White House powerful AI tools ke threats ko control karne ke liye action le raha hai. Janiye simple Hinglish mein AI risks, real-life impact, cybersecurity concerns aur future kya hone wala hai.",
+    "image": "/images/white-house-ai-alert.jpg",
+    "copyright": "© 2026 Biswajeet Moharana | Image Source: Pexels",
+    "date": "April 11, 2026",
+    "tags": ["AI News 2026", "White House AI", "AI Risks", "Cybersecurity AI", "Future of AI", "Tech News"],
+    "content": `<section>
 
   <h1>White House AI Alert: Powerful AI Tools Se Danger Ya Future Opportunity?</h1>
 
@@ -1362,16 +1540,16 @@ export const blogs = [
   </p>
 
 </section>`
-},
+  },
   {
-  "slug": "samsung-bespoke-ai-windfree-pro-ac-india-price-features",
-  "title": "Samsung Bespoke AI WindFree Pro AC Launch India: ₹66,990 se start – Kya yeh Smart AC worth hai?",
-  "description": "Samsung ne India mein Bespoke AI WindFree Pro AC launch kiya hai ₹66,990 starting price ke saath. Janiye simple Hinglish mein iske features, AI benefits, energy saving aur kya yeh aapke liye sahi choice hai.",
-  "image": "/images/samsung-bespoke-ai-ac.jpg",
-  "copyright": "© 2026 Biswajeet Moharana | Image Source: Pexels",
-  "date": "April 10, 2026",
-  "tags": ["Samsung AC 2026", "WindFree AC", "Smart AC India", "AI AC Features", "Samsung Bespoke AC", "Tech News India"],
-  "content": `<section>
+    "slug": "samsung-bespoke-ai-windfree-pro-ac-india-price-features",
+    "title": "Samsung Bespoke AI WindFree Pro AC Launch India: ₹66,990 se start – Kya yeh Smart AC worth hai?",
+    "description": "Samsung ne India mein Bespoke AI WindFree Pro AC launch kiya hai ₹66,990 starting price ke saath. Janiye simple Hinglish mein iske features, AI benefits, energy saving aur kya yeh aapke liye sahi choice hai.",
+    "image": "/images/samsung-bespoke-ai-ac.jpg",
+    "copyright": "© 2026 Biswajeet Moharana | Image Source: Pexels",
+    "date": "April 10, 2026",
+    "tags": ["Samsung AC 2026", "WindFree AC", "Smart AC India", "AI AC Features", "Samsung Bespoke AC", "Tech News India"],
+    "content": `<section>
 
   <h1>Samsung Bespoke AI WindFree Pro AC Launch India: ₹66,990 se start – Kya yeh Smart AC worth hai?</h1>
 
@@ -1571,17 +1749,17 @@ export const blogs = [
   </p>
 
 </section>`
-},
- 
+  },
+
   {
-  "slug": "tech-layoffs-2026-meta-amazon-oracle-list-reasons",
-  "title": "Tech Layoffs 2026: Meta, Amazon, Oracle Jaise Giants Kyun Kar Rahe Hain Job Cuts?",
-  "description": "2026 mein Meta, Amazon, Oracle jaise companies layoffs kar rahi hain. Janiye simple Hinglish mein iska reason kya hai, AI ka impact kya hai aur aap apni job ko kaise secure rakh sakte ho.",
-  "image": "/images/tech-layoffs-2026.jpg",
-  "copyright": "© 2026 Biswajeet Moharana | Image Source: Pexels",
-  "date": "April 9, 2026",
-  "tags": ["Tech Layoffs 2026", "Meta Layoffs", "Amazon Layoffs", "Oracle Jobs", "AI Impact Jobs", "Tech Industry News"],
-  "content": `<section>
+    "slug": "tech-layoffs-2026-meta-amazon-oracle-list-reasons",
+    "title": "Tech Layoffs 2026: Meta, Amazon, Oracle Jaise Giants Kyun Kar Rahe Hain Job Cuts?",
+    "description": "2026 mein Meta, Amazon, Oracle jaise companies layoffs kar rahi hain. Janiye simple Hinglish mein iska reason kya hai, AI ka impact kya hai aur aap apni job ko kaise secure rakh sakte ho.",
+    "image": "/images/tech-layoffs-2026.jpg",
+    "copyright": "© 2026 Biswajeet Moharana | Image Source: Pexels",
+    "date": "April 9, 2026",
+    "tags": ["Tech Layoffs 2026", "Meta Layoffs", "Amazon Layoffs", "Oracle Jobs", "AI Impact Jobs", "Tech Industry News"],
+    "content": `<section>
 
   <h1>Tech Layoffs 2026: Meta, Amazon, Oracle Jaise Giants Kyun Kar Rahe Hain Job Cuts?</h1>
 
@@ -1740,16 +1918,16 @@ export const blogs = [
   </p>
 
 </section>`
-},
+  },
   {
-  "slug": "apple-foldable-iphone-delay-2026-problems",
-  "title": "Apple Foldable iPhone Delay 2026: $2000 Phone Mein Kya Problems Aa Rahi Hain?",
-  "description": "Apple ke first foldable iPhone mein screen aur durability issues saamne aaye hain. Janiye simple Hinglish mein kya problem hai, launch delay kyun ho sakta hai aur kya yeh ₹1.5 lakh ka phone worth hoga ya nahi.",
-  "image": "/images/apple-foldable-iphone-2026.jpg",
-  "copyright": "© 2026 Biswajeet Moharana | Image Source: Pexels",
-  "date": "April 8, 2026",
-  "tags": ["Apple Foldable iPhone", "Tech News 2026", "Apple News", "Foldable Phones", "iPhone Updates", "Smartphone Trends"],
-  "content": `<section>
+    "slug": "apple-foldable-iphone-delay-2026-problems",
+    "title": "Apple Foldable iPhone Delay 2026: $2000 Phone Mein Kya Problems Aa Rahi Hain?",
+    "description": "Apple ke first foldable iPhone mein screen aur durability issues saamne aaye hain. Janiye simple Hinglish mein kya problem hai, launch delay kyun ho sakta hai aur kya yeh ₹1.5 lakh ka phone worth hoga ya nahi.",
+    "image": "/images/apple-foldable-iphone-2026.jpg",
+    "copyright": "© 2026 Biswajeet Moharana | Image Source: Pexels",
+    "date": "April 8, 2026",
+    "tags": ["Apple Foldable iPhone", "Tech News 2026", "Apple News", "Foldable Phones", "iPhone Updates", "Smartphone Trends"],
+    "content": `<section>
 
   <h1>Apple Foldable iPhone Delay 2026: $2000 Phone Mein Kya Problems Aa Rahi Hain?</h1>
 
@@ -1927,16 +2105,16 @@ export const blogs = [
   </p>
 
 </section>`
-},
+  },
   {
-  "slug": "windows-11-april-2026-update-new-features-improvements",
-  "title": "Windows 11 April 2026 Update: 8 Powerful Features Jo Aapka PC Experience Better Bana Denge",
-  "description": "Windows 11 ke April 2026 update mein naye AI features, better performance, voice typing upgrade aur security improvements aaye hain. Simple Hinglish mein samajhiye kya-kya naya mila hai aur kya update karna worth hai.",
-  "image": "/images/windows-11-april-update-2026.jpg",
-  "copyright": "© 2026 Biswajeet Moharana | Image Source: Pexels",
-  "date": "April 7, 2026",
-  "tags": ["Windows 11 Update", "Microsoft News", "Tech News 2026", "AI Features", "Windows Tips", "Software Update"],
-  "content": `<section>
+    "slug": "windows-11-april-2026-update-new-features-improvements",
+    "title": "Windows 11 April 2026 Update: 8 Powerful Features Jo Aapka PC Experience Better Bana Denge",
+    "description": "Windows 11 ke April 2026 update mein naye AI features, better performance, voice typing upgrade aur security improvements aaye hain. Simple Hinglish mein samajhiye kya-kya naya mila hai aur kya update karna worth hai.",
+    "image": "/images/windows-11-april-update-2026.jpg",
+    "copyright": "© 2026 Biswajeet Moharana | Image Source: Pexels",
+    "date": "April 7, 2026",
+    "tags": ["Windows 11 Update", "Microsoft News", "Tech News 2026", "AI Features", "Windows Tips", "Software Update"],
+    "content": `<section>
 
   <h1>Windows 11 April 2026 Update: 8 Powerful Features Jo Aapka PC Experience Better Bana Denge</h1>
 
@@ -2138,16 +2316,16 @@ export const blogs = [
   </p>
 
 </section>`
-},
+  },
   {
-  "slug": "tech-news-6-april-2026-samsung-messages-shutdown-redmi-a7-pro-launch",
-  "title": "Tech News 6th April 2026: Samsung Messaging App Bandh, Redmi A7 Pro 5G Launch aur Aaj ki Badi Updates",
-  "description": "Aaj ki tech news mein janiye Samsung messaging app shutdown ka reason, Redmi A7 Pro 5G launch details, Google ka free storage upgrade aur AI world ke latest trends simple Hinglish mein.",
-  "image": "/images/tech-news-6-april-2026.jpg",
-  "copyright": "© 2026 Biswajeet Moharana | Image Source: Pexels",
-  "date": "April 6, 2026",
-  "tags": ["Tech News 2026", "Samsung News", "Redmi A7 Pro", "Google Storage", "AI Updates", "Gadgets News"],
-  "content": `<section>
+    "slug": "tech-news-6-april-2026-samsung-messages-shutdown-redmi-a7-pro-launch",
+    "title": "Tech News 6th April 2026: Samsung Messaging App Bandh, Redmi A7 Pro 5G Launch aur Aaj ki Badi Updates",
+    "description": "Aaj ki tech news mein janiye Samsung messaging app shutdown ka reason, Redmi A7 Pro 5G launch details, Google ka free storage upgrade aur AI world ke latest trends simple Hinglish mein.",
+    "image": "/images/tech-news-6-april-2026.jpg",
+    "copyright": "© 2026 Biswajeet Moharana | Image Source: Pexels",
+    "date": "April 6, 2026",
+    "tags": ["Tech News 2026", "Samsung News", "Redmi A7 Pro", "Google Storage", "AI Updates", "Gadgets News"],
+    "content": `<section>
 
   <h1>Tech News 6th April 2026: Samsung Messaging App Bandh, Redmi A7 Pro 5G Launch aur Aaj ki Badi Updates</h1>
 
@@ -2327,8 +2505,8 @@ export const blogs = [
   </p>
 
 </section>`
-},
-  
+  },
+
   {
     slug: "meta-mercor-ai-hack-work-pause-2026",
     title: "Meta ne AI Startup Mercor ko kyun roka? $10 Billion Company Hack ke baad bada decision",
