@@ -3,7 +3,7 @@ export const blogs = [
     "slug": "icymi-biggest-tech-stories-week-gopro-most-beautiful-phone-2026",
     "title": "ICYMI: Week ke 7 Biggest Tech Stories – GoPro Cameras se ‘Most Beautiful Phone of 2026’ tak sab kuch!",
     "description": "Is week ke biggest tech updates ek simple Hinglish blog mein samjhiye – GoPro cameras, DJI Pocket 4, smart TV upgrades, AI trends aur ‘most beautiful phone of 2026’ ka buzz. Yeh recap aapko fast aur easy way mein sab samajhne mein help karega.",
-    "image": "/images/weekly-tech-news.jpg",
+    "image": "/images/gopro.jpg",
     "copyright": "© 2026 Biswajeet Moharana | Image Source: Pexels",
     "date": "April 21, 2026",
     "tags": ["Tech News 2026", "Weekly Tech Update", "GoPro Camera", "AI Technology", "Gadgets 2026", "Smartphone News"],
