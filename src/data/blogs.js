@@ -1,5 +1,184 @@
 export const blogs = [
   {
+    "slug": "icymi-biggest-tech-stories-week-gopro-most-beautiful-phone-2026",
+    "title": "ICYMI: Week ke 7 Biggest Tech Stories – GoPro Cameras se ‘Most Beautiful Phone of 2026’ tak sab kuch!",
+    "description": "Is week ke biggest tech updates ek simple Hinglish blog mein samjhiye – GoPro cameras, DJI Pocket 4, smart TV upgrades, AI trends aur ‘most beautiful phone of 2026’ ka buzz. Yeh recap aapko fast aur easy way mein sab samajhne mein help karega.",
+    "image": "/images/weekly-tech-news.jpg",
+    "copyright": "© 2026 Biswajeet Moharana | Image Source: Pexels",
+    "date": "April 21, 2026",
+    "tags": ["Tech News 2026", "Weekly Tech Update", "GoPro Camera", "AI Technology", "Gadgets 2026", "Smartphone News"],
+    "content": `<section>
+
+  <h1>ICYMI: Week ke 7 Biggest Tech Stories – GoPro Cameras se ‘Most Beautiful Phone of 2026’ tak sab kuch!</h1>
+
+  <p>
+    Sach bolo… kya aap bhi tech news follow karte ho, lekin phir bhi kuch updates miss ho jaate hain?
+  </p>
+
+  <p>
+    Main bhi waise hi hoon. Kabhi kaam, kabhi daily life… aur beech mein itni saari updates aa jaati hain ki sab track karna mushkil ho jata hai.
+  </p>
+
+  <p>
+    Isliye yeh simple recap — jahan aapko week ke sabse important tech updates ek jagah mil jayenge.
+  </p>
+
+  <h2>📸 1. New GoPro Cameras – Creators ke liye powerful upgrade</h2>
+
+  <p>
+    Is week naye GoPro cameras ne kaafi attention grab kiya.
+  </p>
+
+  <ul>
+    <li>8K video recording support</li>
+    <li>Better stabilization</li>
+    <li>Improved low-light performance</li>
+  </ul>
+
+  <p>
+    Travel ya action shooting ke liye yeh upgrades kaafi useful ho sakte hain. Smooth video ka importance tab samajh aata hai jab footage shaky ho jaye 😄
+  </p>
+
+  <h2>🎥 2. DJI Pocket 4 – Small size, big performance</h2>
+
+  <p>
+    DJI Pocket 4 ne vloggers ke liye ek compact aur easy solution diya hai.
+  </p>
+
+  <ul>
+    <li>Portable design</li>
+    <li>Built-in stabilization</li>
+    <li>Quick setup</li>
+  </ul>
+
+  <p>
+    Aaj kal log heavy camera carry karna avoid karte hain, aur yeh device unke liye perfect fit lagta hai.
+  </p>
+
+  <h2>📺 3. Smart TV Experience – Fire TV Stick upgrade</h2>
+
+  <p>
+    Streaming lovers ke liye bhi ek upgrade dekhne ko mila.
+  </p>
+
+  <ul>
+    <li>Faster performance</li>
+    <li>Better UI experience</li>
+    <li>Improved voice control</li>
+  </ul>
+
+  <p>
+    Weekend pe jab aap relax kar rahe ho aur device slow ho jaye, toh pura mood kharab ho jata hai. Yeh update us problem ko reduce karega.
+  </p>
+
+  <h2>📱 4. ‘Most Beautiful Phone of 2026’ – Design ka naya trend</h2>
+
+  <p>
+    Is week ek smartphone ka design kaafi viral hua jise ‘most beautiful phone of 2026’ bola ja raha hai.
+  </p>
+
+  <ul>
+    <li>Ultra-slim body</li>
+    <li>Premium finish</li>
+    <li>Minimal bezels</li>
+  </ul>
+
+  <p>
+    Aaj kal phones sirf performance nahi, looks bhi important ho gaye hain. Design bhi ek personality statement ban chuka hai.
+  </p>
+
+  <h2>🪟 5. Windows 11 Updates – Better daily experience</h2>
+
+  <p>
+    Windows 11 ke latest updates ne user experience ko aur improve kiya hai.
+  </p>
+
+  <ul>
+    <li>Haptic feedback</li>
+    <li>Gaming-focused features</li>
+    <li>Smart security alerts</li>
+  </ul>
+
+  <p>
+    Yeh small improvements daily usage mein noticeable difference create karte hain.
+  </p>
+
+  <h2>🤖 6. AI Growth – Har jagah AI ka impact</h2>
+
+  <p>
+    Artificial Intelligence ka trend ab aur strong ho raha hai.
+  </p>
+
+  <ul>
+    <li>Smart automation</li>
+    <li>Better suggestions</li>
+    <li>Faster work completion</li>
+  </ul>
+
+  <p>
+    Aaj ke time mein AI slowly har app aur device ka part ban raha hai.
+  </p>
+
+  <h2>🚁 7. Drone Technology – Real-world use cases</h2>
+
+  <p>
+    Drone technology bhi fast grow kar rahi hai aur ab real-world problems solve kar rahi hai.
+  </p>
+
+  <ul>
+    <li>Agriculture</li>
+    <li>Delivery services</li>
+    <li>Security & monitoring</li>
+  </ul>
+
+  <p>
+    Drones ab sirf hobby nahi rahe, balki practical tools ban chuke hain.
+  </p>
+
+  <h2>🌍 Yeh sab aapki life ko kaise impact karta hai?</h2>
+
+  <p>
+    Shayad aapko lag raha ho ki yeh sab sirf news hai, lekin reality mein yeh updates directly aapki life ko affect karte hain.
+  </p>
+
+  <ul>
+    <li>Better devices</li>
+    <li>Faster work</li>
+    <li>Smarter technology</li>
+  </ul>
+
+  <p>
+    Technology slowly aapke daily routine ka part ban chuki hai.
+  </p>
+
+  <h2>💭 Real Talk</h2>
+
+  <p>
+    Pehle hum technology use karte the, ab technology hume guide kar rahi hai.
+  </p>
+
+  <p>
+    Har update sirf feature nahi hota — woh ek habit change bhi hota hai.
+  </p>
+
+  <h2>🌱 Final Thought</h2>
+
+  <p>
+    Har week naye gadgets aur updates aate rahenge, lekin sabse important cheez yeh hai ki aap unhe kaise use karte ho.
+  </p>
+
+  <p>
+    Agar technology aapki life easy bana rahi hai, toh woh valuable hai. Agar sirf distraction ban rahi hai, toh thoda control zaroori hai.
+  </p>
+
+  <p>
+    Smart use karo, tabhi tech ka real benefit milega. Har update ko blindly follow karne se better hai ki aap apni 
+    needs ke hisaab se technology ko apne life ka part banao. Yeh hi smart tech use karne ka asal mantra hai!
+  </p>
+
+  </section>`
+  },
+  {
     "slug": "apple-iphone-18-pro-design-display-colours-launch-timeline",
     "title": "Apple iPhone 18 Pro: Design, Display, Colours aur Launch Timeline – Kya Yeh Upgrade Worth Hoga?",
     "description": "iPhone 18 Pro ke expected design changes, display upgrades, colour options aur launch timeline ko simple Hinglish mein samjhiye. Yeh blog aapko help karega decide karne mein ki upgrade karna chahiye ya wait karna better hai.",
